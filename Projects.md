@@ -6,7 +6,8 @@ permalink: /Projects/
 ## [Yotta](https://github.com/hanhonglei/Yotta)
 
 2D tower defense game based on Unity
-### 制作人员介绍
+
+制作人员介绍
 
 	制作人：韩红雷
 
@@ -19,8 +20,6 @@ permalink: /Projects/
 	美术：李萌、邹悦、张思雨
 
 	单位：中国传媒大学艺术学部
-
-	email：hanhonglei@cuc.edu.cn
 
 ## [Shooter](https://github.com/hanhonglei/Shooter) 
 
