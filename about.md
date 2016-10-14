@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 自我介绍
+title: About 简历
 permalink: /about/
 ---
 ![Myself](./Images/Me.jpg = 100 x 20)
