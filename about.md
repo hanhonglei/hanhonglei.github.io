@@ -1,18 +1,35 @@
 ---
 layout: page
-title: About
+title: About 自我介绍
 permalink: /about/
 ---
+![Myself](./Images/Me.jpg = 100 x 20)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+HAN, HONGLEI (韩红雷) 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Research: 
 
-测试中文
-韩红雷
+Digital Game Design, Visual Reality, Computer Graphics
+
+Education:
+
+Sep 2009~Jan 2015	University of Chinese Academy of Sciences (中国科学院大学)
+
+Ph.D. Engineering	Research on Exploration Metrics and Their Applications of the 3D Scene
+
+Sep 2004~Jun 2006	Communication University of China (中国传媒大学)
+	
+Master Engineering	Research on Technologies of Motion Editing
+
+Sep 1999~Jun 2003	Beijing Wuzi University (北京物资学院)	
+
+Bachelor Management	
+
+韩红雷：博士，男，1980年1月生人，籍贯山西太原，中国传媒大学，游戏设计技术教研室主任。
+
+2006年毕业于中国传媒大学，获工学硕士学位，专业为计算机应用技术。2015年1月毕业于中国科学院软件研究所，获博士学位，专业为计算机应用技术（计算机图形学方向）。
+
+目前承担的本科生课程有：《游戏引擎原理与实践》、《游戏开发程序设计基础》、《游戏物理学》、《游戏脚本编程》等；研究生课程有：《游戏设计与研究》等。
+
+主要研究方向是：游戏开发技术、虚拟现实等、计算机图形学。
