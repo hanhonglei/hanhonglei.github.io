@@ -34,17 +34,18 @@ Any posted articles will be automatically updated by Github pages after you push
 
 If you want to collect some particular posts in a page, code work wouldn’t be avoided.
 The code below will collect all posts have category type poem, and the post date will also be rendered:
+
 {% highlight ruby %}
 <ul>
-  {% for post in site.posts %}
-	{% if post.categories contains 'poem' %} 
+  /{/% for post in site.posts /%/}
+	\{\% if post.categories contains 'poem' \%\} 
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		  <span>({{ post.date | date:"%Y-%m-%d" }})</span>
 		  {{ post.excerpt }}
 		</li>
-	 {% endif %} 
-	{% endfor %}
+	 \{\% endif \%\} 
+	\{\% endfor \%\}
 </ul>
 {% endhighlight %}
 
