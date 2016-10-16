@@ -39,7 +39,7 @@ This is a demo Unity 3D project for education purpose. It has many typical game 
 - Dropping random items
 - UI
 
-## 3.	[A demo using Leapmotion in VR environment]()
+## 3.	[A demo using Leapmotion in VR environment](https://bitbucket.org/Honglei_Han/leapmotioncontrolvrdemo)
 
 A tower defense game in VR environment using Leapmotion as the interactive method.
 
