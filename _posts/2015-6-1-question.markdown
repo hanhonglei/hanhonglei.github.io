@@ -13,20 +13,20 @@ Install Jekyll and related environments follow the instruction strictly [here](h
 Before finally call build function of Jekyll, you should follow these steps to let it run successfully on Windows system.
 
 
-1. Add your repository name with organization to your _config.yml, like: repository: henry/henrydf.github.io. See it from [here](https://github.com/jekyll/jekyll/issues/4705)
+1. Add your repository name with organization to your **_config.yml**, like: repository: henry/henrydf.github.io. See it from [here](https://github.com/jekyll/jekyll/issues/4705)
 
 2. About "GitHub Metadata warning", you should follow these steps as describe in [this site](https://www.hieule.info/programming/fix-errors-github-metadata-ssl-certificate-running-jekyll-serve/):
 
 	2.1 GitHub Metadata is a gem required by Jekyll. We need a GitHub personal token to make it work. Follow the excellent guide on GitHub to create a token, copy it to a safe place.
-Now, create new environment variable in your system named JEKYLL_GITHUB_TOKEN with the value pasted from the created token. 
+Now, create new environment variable in your system named `JEKYLL_GITHUB_TOKEN` with the value pasted from the created token. 
 
-	2.2 Now, down load the .pem file from [here](https://curl.haxx.se/ca/cacert.pem). Then, create another environment variable called SSL_CERT_FILE pointing to the location of downloaded .pem file.
+	2.2 Now, down load the .pem file from [here](https://curl.haxx.se/ca/cacert.pem). Then, create another environment variable called `SSL_CERT_FILE` pointing to the location of downloaded .pem file.
 
 You can also check [this video](https://www.youtube.com/watch?v=1bQqkyvH5ps) out.
 
 ## Create contents of the blog website
 
-The Github pages blog system is heavily based on the Github repository. Any new posted posts should be placed in _posts folder, and give a specific file name date 'YYYY-MM-DD-name-of-post.markdown'.
+The Github pages blog system is heavily based on the Github repository. Any new posted posts should be placed in _posts folder, and give a specific file name date `YYYY-MM-DD-name-of-post.markdown`.
 
 Any posted articles will be automatically updated by Github pages after you push them to your Github repository.
 
@@ -51,6 +51,7 @@ The code below will collect all posts have category type poem, and the post date
 ## Keep update of the resource
 You should always update functions to keep your Jekyll resources up to date.
 
-If you followed our setup recommendations and installed Bundler, run bundle update github-pages or simply bundle update and all your gems will update to the latest versions.
-If you don't have Bundler installed, run gem update github-pages 
+If you followed our setup recommendations and installed Bundler, run `bundle update github-pages` or simply `bundle update` and all your gems will update to the latest versions.
+
+If you don't have Bundler installed, run `gem update github-pages`
 

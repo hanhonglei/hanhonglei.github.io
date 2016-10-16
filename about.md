@@ -3,7 +3,7 @@ layout: page
 title: About 简历
 permalink: /about/
 ---
-![Myself]({{site.url}}/Images/Me.jpg)
+![Myself]({{site.url}}/Images/Me.jpg){:width="100px"}
 
 ## HAN, HONGLEI (韩红雷) 
 
