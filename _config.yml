@@ -23,20 +23,22 @@
 #    </li>
 #  {% endfor %}
 #</ul>
-title: Honglei Han's Personal Website 韩红雷的个人主页
+title: Honglei Han's Personal Website 韩红雷的主页
 email: hanhonglei@cuc.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
   Honglei Han from CUC
   
-  来自中国传媒大学的韩红雷主页
+  中国传媒大学 游戏设计 韩红雷 个人主页
   
-  包括韩红雷的科研信息、个人介绍、创作的部分古体诗，以及一些平时记录
+  包括韩红雷的科研信息、个人介绍、开源项目、创作的部分古体诗，以及一些平时记录
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  hanhonglei
 
 # Build settings
 markdown: kramdown
 theme: minima
 repository: hanhonglei/hanhonglei.github.io 
+
+excerpt_separator: <!--more-->

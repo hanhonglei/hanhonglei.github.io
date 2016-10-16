@@ -4,6 +4,8 @@ title:  "风来雾散"
 date:   2015-12-1
 categories: poem
 ---
+<!--more-->
+
 《风来雾散》
 风，你刮吧，你尽情的刮吧。
  
