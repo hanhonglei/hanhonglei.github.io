@@ -3,13 +3,13 @@ layout: page
 title: About 简历
 permalink: /about/
 ---
-![Myself](/Images/Me.jpg = 100 x 20)
+![Myself]({{site.url}}/Images/Me.jpg)
 
 ## HAN, HONGLEI (韩红雷) 
 
 Ph.D. Associate professor. [School of Animation and Digital Arts](http://animation.cuc.edu.cn) at [Communication University of China (中国传媒大学)](http://en.cuc.edu.cn/).
 
-He joined the Communication University of China (CUC) after receiving his M.S. degree in computer science from this college in 2006. He was teaching various undergraduate and graduate courses in computer graphics, programming, and computer games at CUC, such as “Game programming foundation”, “Game engine”, “Physics simulation in computer games”, and “Script programming”. He received the PhD degree from Institute of Software, Chinese Academy of Sciences in January 2015, under the supervision of [Prof. WANG, Wencheng](http://lcs.ios.ac.cn/~whn/). He once stayed at [University of North Carolina, Charlotte](http://www.uncc.edu) as a visiting scholar to conduct joint resarch and teaching with [Prof. Aidong Lu](http://www.webpages.uncc.edu/alu1/), from Jan 2016 to Feb 2017, sponsored by the scholarship program of "specific government-sponsored art talents training program" from [China Scholarship Council](http://www.csc.edu.cn).
+He joined the Communication University of China (CUC) after receiving his M.S. degree in computer science from this college in 2006. He was teaching various undergraduate and graduate courses in computer graphics, programming, and computer games at CUC, such as “Game programming foundation”, “Game engine”, “Physics simulation in computer games”, and “Script programming”. He received the PhD degree from Institute of Software, Chinese Academy of Sciences in January 2015, under the supervision of [Prof. WANG, Wencheng](http://lcs.ios.ac.cn/~whn/). He once stayed at [University of North Carolina, Charlotte](http://www.uncc.edu) as a visiting scholar to conduct joint research and teaching with [Prof. Aidong Lu](http://www.webpages.uncc.edu/alu1/), from Jan 2016 to Feb 2017, sponsored by the scholarship program of "specific government-sponsored art talents training program" from [China Scholarship Council](http://www.csc.edu.cn).
 
 ## Research: 
 

@@ -32,6 +32,6 @@ permalink: /publications/
 18.	费广正，李欣，**韩红雷**，一种基于手绘草图的建模与动画系统[A]，CIDE’2007论文集，上海2007，pp.114-120 [PDF](/Resources/2007Sketch.pdf)
 19.	张焰，费广正，**韩红雷**，朱永峰，运动数据的风格化处理综述[A]，计算机技术与应用进展2007,宁波 2007，pp.971-979 [PDF](/Resources/2007MotionStyle.pdf)
 20.	**韩红雷**，费广正，孙国玉，舒志雄，一个运动编辑系统的实现：MotionPro[A]，Chinagraph’2006论文集，pp.87-93。 [PDF](/Resources/2006MotionProHanHonglei.pdf)
-21.	谢浩，费广正，李欣，**韩红雷**，赵越，位移细分曲线[J]，中国图像图形学报，2006年增刊, pp.113-119. [PDF](/Resources/2006DisplacedSubdivisionCurve.pdf)
+21.	谢浩，费广正，李欣，**韩红雷**，赵越，位移细分曲线[J]，中国图像图形学报，2006年增刊, pp.113-119. [PDF]({{site.url}}/Resources/2006DisplacedSubdivisionCurve.pdf)
 
 

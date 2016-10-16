@@ -14,15 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#use below to list out excerpts
-#<ul>
-#  {% for post in site.posts %}
-#    <li>
-#      <a href="{{ post.url }}">{{ post.title }}</a>
-#      {{ post.excerpt }}
-#    </li>
-#  {% endfor %}
-#</ul>
 title: Honglei Han's Personal Website 韩红雷的主页
 email: hanhonglei@cuc.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
@@ -32,7 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
   包括韩红雷的科研信息、个人介绍、开源项目、创作的部分古体诗，以及一些平时记录
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://hanhonglei.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  hanhonglei
 
