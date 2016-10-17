@@ -15,3 +15,7 @@ categories: poem
 求学半载，生万千银丝，终归锦衣还乡。
 
 横批：王姐保重
+
+<!--more-->
+
+![]({{site.url}}/Images/19.png)

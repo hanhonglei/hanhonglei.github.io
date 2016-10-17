@@ -13,3 +13,7 @@ categories: poem
 坐井观天英吉利，海纳百川美利坚。
 
 倘得一二联邦宝，他日返乡不留憾。
+
+<!--more-->
+
+![]({{site.url}}/Images/15.png)

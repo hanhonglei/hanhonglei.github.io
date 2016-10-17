@@ -17,3 +17,5 @@ categories: poem
 <!--more-->
 
 - 今天是游戏设计专业小学期大比武，同学们表现都很出色，特习作律诗一首纪念。
+
+![]({{site.url}}/Images/3.png)

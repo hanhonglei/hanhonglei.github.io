@@ -30,3 +30,4 @@ categories: poem
 - 细腰纤纤翅，倏离无所踪。
 - 窃以为她睹物思人，故习作两首与之应答。
 
+![]({{site.url}}/Images/28.png)

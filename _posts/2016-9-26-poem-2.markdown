@@ -13,3 +13,5 @@ categories: poem
 <!--more-->
 
 - 偶然看到齐翊帆的朋友圈照片和评语，一时技痒，写了一首绝句。
+
+![]({{site.url}}/Images/32.png)

@@ -13,3 +13,7 @@ categories: poem
 湖中野鸥勤觅食，林间松鼠忙起窝。
 
 常思年少多建树，揽镜白发万事休。
+
+<!--more-->
+
+![]({{site.url}}/Images/23.png)

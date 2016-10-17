@@ -9,3 +9,7 @@ categories: poem
 异域饮食不舒康，幸有贤妻下厨房。
 
 烹好三五家常菜，只把夏村作管庄。
+
+<!--more-->
+
+![]({{site.url}}/Images/17.png)

@@ -9,3 +9,7 @@ categories: poem
 夏日踏歌赴蓬莱，孤舟无羁乐开怀。
 
 幸若牵的神仙手，结伴返京中门开。
+
+<!--more-->
+
+![]({{site.url}}/Images/1.png)

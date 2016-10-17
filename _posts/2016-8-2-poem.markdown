@@ -10,3 +10,6 @@ categories: poem
 
 天上仙人摇机杼，纺成山岳随风斜。
 
+<!--more-->
+
+![]({{site.url}}/Images/20.png)

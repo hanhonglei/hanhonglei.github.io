@@ -9,3 +9,7 @@ categories: poem
 七月骄阳耀西南，艺部英杰出东关。
 
 京北盛景无暇顾，三五规划动全员。
+
+<!--more-->
+
+![]({{site.url}}/Images/7.png)

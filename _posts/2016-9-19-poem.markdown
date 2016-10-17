@@ -9,3 +9,7 @@ categories: poem
 常恨流水恨落花，东风秋雨又夕阳。
 
 邯郸一梦百年过，前世荣辱付黄粱。
+
+<!--more-->
+
+![]({{site.url}}/Images/26.png)

@@ -13,3 +13,7 @@ categories: poem
 邻里皆和睦，路人频抱拳。
 
 闲坐在林中，心静逸思远。
+
+<!--more-->
+
+![]({{site.url}}/Images/16.png)

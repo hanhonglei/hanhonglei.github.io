@@ -28,3 +28,5 @@ categories: poem
 <!--more-->
 
 - 注：张朝霞当时临别在QQ群里面给大家分享歌曲，马春燕在校园里面依依不舍，拍照留念。
+
+![]({{site.url}}/Images/21.png)

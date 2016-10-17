@@ -13,3 +13,5 @@ categories: poem
 <!--more-->
 
 - 今天携闺女回太原小住几天，凑一首聊作旅途纪念。
+
+![]({{site.url}}/Images/10.png)

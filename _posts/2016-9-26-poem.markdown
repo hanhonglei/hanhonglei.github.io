@@ -9,3 +9,7 @@ categories: poem
 半载相逢寄前缘，秋风细雨送君还。 
 
 归乡自有乡间趣，今朝一别重聚难。
+
+<!--more-->
+
+![]({{site.url}}/Images/29.png)

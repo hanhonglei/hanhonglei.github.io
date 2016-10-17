@@ -9,3 +9,7 @@ categories: poem
 午后鸣蝉噪，池中芦苇长。
 
 丝纶垂水面，漂动钓竿扬。
+
+<!--more-->
+
+![]({{site.url}}/Images/2.png)

@@ -9,3 +9,7 @@ categories: poem
 细雨霏霏墨染天，水镇古韵似桃源。
 
 涓流载舟游人织，恍惚古北变荆川。
+
+<!--more-->
+
+![]({{site.url}}/Images/6.png)

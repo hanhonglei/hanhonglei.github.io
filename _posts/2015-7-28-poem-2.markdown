@@ -13,3 +13,7 @@ categories: poem
 毕业佳作尚回味，此届作品犹可期。
 
 倘有不思奋进者，铁打营盘不待君。
+
+<!--more-->
+
+![]({{site.url}}/Images/5.png)

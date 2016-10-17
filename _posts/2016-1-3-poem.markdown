@@ -13,3 +13,7 @@ categories: poem
 旧舍沉岁月，新楼流时光。
 
 芸芸擦身过，无人肯相望。
+
+<!--more-->
+
+![]({{site.url}}/Images/14.png)

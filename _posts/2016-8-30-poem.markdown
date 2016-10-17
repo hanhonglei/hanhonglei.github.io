@@ -9,3 +9,7 @@ categories: poem
 春藏万物待升华，夏少苦热偶清凉。
 
 秋来沃土黄金色，冬有温情去寒霜。
+
+<!--more-->
+
+![]({{site.url}}/Images/22.png)

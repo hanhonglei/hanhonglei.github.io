@@ -9,3 +9,7 @@ categories: poem
 异域不知有中秋，独坐把酒寄乡愁。
 
 年年月圆人相聚，今宵彼此月不同。
+
+<!--more-->
+
+![]({{site.url}}/Images/25.png)

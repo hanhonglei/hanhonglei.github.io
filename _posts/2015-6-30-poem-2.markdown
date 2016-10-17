@@ -9,3 +9,7 @@ categories: poem
 蹒跚学步去，知书达理来。
 
 传媒善培育，师长情在怀。
+
+<!--more-->
+
+![]({{site.url}}/Images/8.png)

@@ -13,3 +13,7 @@ categories: poem
 场上争先露实力，心中坦荡纳声张。
 
 高手如林浑不怕，争得榜首父子强。
+
+<!--more-->
+
+![]({{site.url}}/Images/13.png)
