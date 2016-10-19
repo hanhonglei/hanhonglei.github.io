@@ -1,0 +1,15 @@
+---
+layout: post
+title:  夏村秋早
+date:   2016-10-11
+categories: poem
+---
+`《夏村秋早》`
+
+蝉寂秋来早，叶落夏难留。
+
+日出扰宿鸟，凌云天愈悠。
+
+<!--more-->
+
+![]({{site.url}}/Images/33.png)

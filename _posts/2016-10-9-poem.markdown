@@ -1,0 +1,14 @@
+---
+layout: post
+title:  怀念中餐
+date:   2016-10-9
+categories: poem
+---
+`《怀念中餐》`
+夏村多胜景，番邦无佳肴。
+
+天朝饕餮者，能寄一盘否？
+
+<!--more-->
+
+![]({{site.url}}/Images/34.png)
