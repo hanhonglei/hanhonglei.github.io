@@ -33,3 +33,6 @@ theme: minima
 repository: hanhonglei/hanhonglei.github.io 
 
 excerpt_separator: <!--more-->
+
+gems:
+  - jekyll-feed
