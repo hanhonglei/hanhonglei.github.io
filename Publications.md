@@ -34,4 +34,15 @@ permalink: /publications/
 20.	**韩红雷**，费广正，孙国玉，舒志雄，一个运动编辑系统的实现：MotionPro[A]，Chinagraph’2006论文集，pp.87-93。 [PDF]({{site.url}}//Resources/2006MotionProHanHonglei.pdf)
 21.	谢浩，费广正，李欣，**韩红雷**，赵越，位移细分曲线[J]，中国图像图形学报，2006年增刊, pp.113-119. [PDF]({{site.url}}/Resources/2006DisplacedSubdivisionCurve.pdf)
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 

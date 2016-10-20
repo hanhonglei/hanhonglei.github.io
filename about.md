@@ -48,3 +48,14 @@ Digital Game Design, Visual Reality, Computer Graphics
 目前承担的本科生课程有：《游戏引擎原理与实践》、《游戏开发程序设计基础》、《游戏物理学》、《游戏脚本编程》等；研究生课程有：《游戏设计与研究》等。
 
 **主要研究方向**：游戏开发技术、虚拟现实、计算机图形学等。
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
