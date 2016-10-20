@@ -19,9 +19,11 @@ email: hanhonglei@cuc.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
   Honglei Han from CUC
   
-  中国传媒大学 游戏设计 韩红雷 个人主页
+  中国传媒大学 游戏设计 韩红雷
   
-  包括韩红雷的科研信息、个人介绍、开源项目、创作的部分古体诗，以及一些平时记录
+  科研信息 个人介绍 开源项目 创作的部分古体诗
+  
+  Unity 3D 游戏引擎 Game Engine 游戏开发 计算机图形学 虚拟现实 Virtual Reality
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hanhonglei.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
