@@ -4,7 +4,7 @@ title:  记CG美食节
 date:   2016-5-26
 categories: poem
 ---
-《记CG美食节》
+`《记CG美食节》`
 
 一周阴雨入夏难，访学不惧倒春寒。
 
