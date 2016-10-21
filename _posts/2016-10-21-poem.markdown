@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  ​胡教授归国
-date:   2016-10-20
+title:  胡教授归国
+date:   2016-10-21
 categories: poem
----​
+---
 `《胡教授归国》`
 
 村中访友众，异乡生活难。
@@ -19,7 +19,7 @@ categories: poem
 - ​注：颈联说的是胡教授为增长见识，曾数度出游美国各地，和霞客一样体验各处风土人情；胡老师也出于多种原因，不惜搬了三次家，颇有孟母三迁的意味。尾联表示离别前夜，几位好友举办牌局帮她派遣离愁。
 
 
-![]({{site.url}}/Images/37.PNG)
+![]({{site.url}}/Images/37.JPG)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
