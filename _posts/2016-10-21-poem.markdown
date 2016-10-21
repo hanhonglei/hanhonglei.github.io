@@ -1,0 +1,33 @@
+---
+layout: post
+title:  ​胡教授归国
+date:   2016-10-20
+categories: poem
+---​
+`《胡教授归国》`
+
+村中访友众，异乡生活难。
+
+一载春秋过，满腹苦甜还。
+
+猎奇霞万里，择邻孟三迁。
+
+离愁寄牌会，相视不能言。
+
+<!--more-->
+
+- ​注：颈联说的是胡教授为增长见识，曾数度出游美国各地，和霞客一样体验各处风土人情；胡老师也出于多种原因，不惜搬了三次家，颇有孟母三迁的意味。尾联表示离别前夜，几位好友举办牌局帮她派遣离愁。
+
+
+![]({{site.url}}/Images/37.PNG)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
