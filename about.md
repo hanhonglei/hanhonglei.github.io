@@ -4,6 +4,7 @@ title: About 简历
 permalink: /about/
 ---
 ![Myself]({{site.url}}/Images/Me.jpg){:width="100px"}
+![MyselfComic]({{site.url}}/Images/MeComic.jpg){:width="100px"}
 
 ## HAN, HONGLEI (韩红雷) 
 
