@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  校园赏秋
-date:   2016-10-23
+title: 校园赏秋
+date: 2016-10-23
 categories: poem
----​
+---
 `《校园赏秋》`
 
 风吹落叶声似雨，天载浮云状如山。

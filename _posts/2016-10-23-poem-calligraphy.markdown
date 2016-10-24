@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  习帖
-date:   2016-10-23
+title: 习帖
+date: 2016-10-23
 categories: poem calligraphy
----​
-
+---
 借了毛笔，字属于未开蒙状态。
 
 <!--more-->
