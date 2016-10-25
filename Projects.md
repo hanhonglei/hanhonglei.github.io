@@ -53,7 +53,7 @@ Use Microsoft MFC, and use skin to beautify. Can generate the lucky numbers rand
 
 Used in Honglei Han's PHD study and graducation. Please check the readme.doc for more details.
 
-## 6. [Samples of my book `Game Development Programming Foundation`](https://github.com/hanhonglei/GameDevelopmentSamples)
+## 6. [Samples of my book Game Development Programming Foundation](https://github.com/hanhonglei/GameDevelopmentSamples)
 
 Samples of all chapters in the book `Game Development Programming Foundation`
 
