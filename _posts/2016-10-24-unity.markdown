@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to write game data into external files in `Unity 3D` using `C#`
-date: 2016-10-23
+date: 2016-10-24
 categories: article unity game
 ---
 
