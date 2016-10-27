@@ -75,9 +75,9 @@ User Study of the Paper [Implicit measures of user attention in virtual environm
 
 This is the user study `Unity 3D` application of [this paper](http://info.scichina.com:8084/sciF/CN/Y2014/V44/I11/1398).
 
-During user navigating, all attention evulation parameters, proposed in this paper, of different saliency game object will be recorded in different files located in folder `Output`. The player navigate behavior will be recorded as well.
+During user navigating, all attention evaluation parameters, proposed in this paper, of different saliency game object will be recorded in different files located in folder `Output`. The player navigate behavior will be recorded as well.
 
-After collect enough samples, an user attention measure result of different saliency level game object will be obtained.
+After collect enough samples, a user attention measure result of different saliency level game object will be obtained. The attention value can be calculated based on these parameters using the method proposed in the [paper](http://info.scichina.com:8084/sciF/CN/Y2014/V44/I11/1398).
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
