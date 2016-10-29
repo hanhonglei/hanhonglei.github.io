@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Honglei Han's Personal Website 韩红雷的主页
+title: Honglei Han 韩红雷的主页
 email: hanhonglei@cuc.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
   Honglei Han from CUC

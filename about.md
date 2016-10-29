@@ -5,7 +5,9 @@ permalink: /about/
 ---
 ![Myself]({{site.url}}/Images/Me.jpg){:height="150px"}
 ![MyselfComic]({{site.url}}/Images/MeComic.jpg){:height="150px"}
-![MyselfComic]({{site.url}}/Images/MeHolo.JPG){:height="150px"}
+![MyselfHolo]({{site.url}}/Images/MeHolo.JPG){:height="150px"}
+![MyselfSherry]({{site.url}}/Images/MeFromSherry.jpg){:height="150px"}
+![FamilySherry]({{site.url}}/Images/FamilySherry.jpg){:width="120px"}
 
 ## HAN, HONGLEI (韩红雷) 
 
