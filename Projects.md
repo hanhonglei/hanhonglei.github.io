@@ -79,6 +79,33 @@ During user navigating, all attention evaluation parameters, proposed in this pa
 
 After collect enough samples, a user attention measure result of different saliency level game object will be obtained. The attention value can be calculated based on these parameters using the method proposed in the [paper](http://info.scichina.com:8084/sciF/CN/Y2014/V44/I11/1398).
 
+## 8. [Linear Texture Coordinate Interpolation in Rasterization](https://github.com/hanhonglei/Linear-Texture-Coordinate-Interpolation-in-Rasterization)
+
+This is the source project of paper [Linear Texture Coordinate Interpolation in Rasterization](http://www.jcad.cn/jcadcms/document/attach_manager!download.action?id=4028e4e44bc55348014c2be463d81403) in Chinese.
+
+You can also find the information of this paper in the `publications` page [here](https://hanhonglei.github.io/publications/)
+
+**Howt to use**
+
+1. 使用`打开文件`打开一张`tga`格式的纹理（比如`棋盘.tga`），也可以直接将`tga`图片拖拽上去。
+
+2. 点击`R`按钮可以再`OpenGL`绘制和自主栅格化之间切换。
+
+3. 点击`C`可以调整三角形的几何信息；以及采取哪种栅格化方式（两种：文章提出的`KIM`，以及我们提出的`WANG`）。
+
+4. 使用方向键以及换页键可以调整视角。
+
+5. 每种栅格化方式的时间在窗口中给出，单位毫秒。
+
+6. 如果`Raster.exe`运行不正确，请首先安装`vcredist_x86.exe` [here](https://www.microsoft.com/en-us/download/details.aspx?id=5555)。
+
+7. 大部分算法在`Raster.cpp`中，并有注释。
+
+8. 增加了调整纹理坐标精度的选项，可以调整保留到纹理坐标小数点后几位。
+
+9. 程序退出后，会在当前文件夹下生成`OutPut.txt`文件，里面保存了各种栅格化算法的统计数据。
+
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
