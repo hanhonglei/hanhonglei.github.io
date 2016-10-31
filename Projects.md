@@ -85,6 +85,8 @@ This is the source project of paper [Linear Texture Coordinate Interpolation in 
 
 You can also find the information of this paper in the `publications` page [here](https://hanhonglei.github.io/publications/)
 
+**Abstract** A new algorithm is presented for correct texture coordinate interpolation in rasterization. By dividing the 3D ploygon into line segments parallel to the viewing plane, the algorithm performs texture coordinate interpolations along these line segments, so that correct results can be obtained with linear computation, without the division operations as used in existing methods for rasterization. For the errors from discretization in rasterization, supplementary measures are provided to correct them gradually. Experiment results show the effectiveness and efficiency of the new algorithm. 
+
 **Howt to use**
 
 1. 使用`打开文件`打开一张`tga`格式的纹理（比如`棋盘.tga`），也可以直接将`tga`图片拖拽上去。
