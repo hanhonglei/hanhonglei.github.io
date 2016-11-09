@@ -9,7 +9,7 @@ You can use get function to read some private variables in a class. As list belo
 
 <!--more-->
 
-{% highlight cs %}
+{% highlight csharp %}
     public class Wave
     {
         [SerializeField]

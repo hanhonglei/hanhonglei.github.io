@@ -8,7 +8,7 @@ categories: article Jekyll
 
 1. Use `   ` pair to get special format of the content inside them.
 2. Use double stars `**` pair to get bold formatted content.
-3. Use {% raw %} `{% highlight cs %} {% endhighlight %}` {% endraw %} to format code. There are quite a few types of language are supported.
+3. Use {% raw %} `{% highlight csharp %} {% endhighlight %}` {% endraw %} to format code. There are quite a few types of language are supported.
 4. Use `{``%` `raw` `%``}` `{``%` `endraw` `%``}` to only display common text content instead of execute the code inside them.
 5. Use `-` to get a comment pattern.
 6. Different number of `#` represents different level of title.

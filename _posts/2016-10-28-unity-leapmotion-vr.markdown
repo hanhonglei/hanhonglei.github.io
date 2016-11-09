@@ -56,7 +56,7 @@ It’s time to hit the script, use a script to give them destination. Create an 
 
 The script can be written like this. Grab this script into the enemies.
 
-{% highlight cs %}
+{% highlight csharp %}
     public Transform destPoint;                             
     private NavMeshAgent nav;
     void Awake()
@@ -102,7 +102,7 @@ We should follow these steps to make it works.
 
 We then add a player game object to do interaction. The script hanged in player game object written like this.
 
-{% highlight cs %}
+{% highlight csharp %}
    public GameObject bullet;
     [SerializeField]
     public Leap.Unity.ExtendedFingerDetector handFinger;
@@ -120,7 +120,7 @@ We then add a player game object to do interaction. The script hanged in player 
 
 We should also do some coding to control the bullet.
 
-{% highlight cs %}
+{% highlight csharp %}
 public float speed = 10.0f;
     private Rigidbody rb; // rigid body component of this bullet
     void FixedUpdate()
@@ -153,7 +153,7 @@ We can add some UI staff as well.
 
 Use script to control UI elements.
 
-{% highlight cs %}
+{% highlight csharp %}
     void Start()
     {
         gameInfo = GameObject.Find("Text").GetComponent<Text>();
@@ -168,7 +168,7 @@ Use script to control UI elements.
 
 We should also implement some game logics. Such as Bullet collider with enemies, and enemy behaviors.
 
-{% highlight cs %}
+{% highlight csharp %}
 public PlayerFire p;
     public void ShootMe()
     {
@@ -179,7 +179,7 @@ public PlayerFire p;
 
 Bullet collider behavior can like this.
 
-{% highlight cs %}
+{% highlight csharp %}
 public PlayerFire p;
 void OnCollisionEnter(Collision collision)
     {

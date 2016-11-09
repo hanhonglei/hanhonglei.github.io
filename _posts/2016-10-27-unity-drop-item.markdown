@@ -17,7 +17,7 @@ Write a script named `EnemyDropItemProc` that would be grabbed into an enemy or 
 
 The codes in script named `EnemyDropItemProc` are listed below.
 
-{% highlight cs %}
+{% highlight csharp %}
     public ItemLevel enemyLevel = ItemLevel.Level1;
     public LevelManager levelManager = null;
     public float dropItemPer = 0.1f; 
@@ -41,7 +41,7 @@ The codes in script named `EnemyDropItemProc` are listed below.
 
 Function `DropItem` will be called when the enemy is killed by the player. It would be called in `Die` function of `Enemy` script like this:
 
-{% highlight cs %}
+{% highlight csharp %}
     protected override void Die()
     {
         SendMessage("DropItem");
@@ -52,7 +52,7 @@ Function `DropItem` will be called when the enemy is killed by the player. It wo
 
 In script `LevelManager`, the function `GenerateRandomItem` , that will handle all random generate items process, can be write like this:
 
-{% highlight cs %}
+{% highlight csharp %}
     public Item GenerateRandomItem(Transform dropper)
     {
         float r = Random.value;

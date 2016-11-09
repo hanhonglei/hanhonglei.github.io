@@ -10,7 +10,7 @@ You can write data in a stream form. Can also use formatted string similar with 
 
 Open several files for writing like this below. If the file exists, it will be overwritten.
 
-{% highlight cs %}
+{% highlight csharp %}
     private List<StreamWriter> _recordFile;
 
     // Use this for initialization
@@ -24,14 +24,14 @@ Open several files for writing like this below. If the file exists, it will be o
 
 Write data like this:
 
-{% highlight cs %}
+{% highlight csharp %}
         // Record fire information [10/23/2016 Han]
         dataRecorder.playerFile.Write(Time.time + "\tPlayer fire" + "\tusing weapon:\t" + weapons[weaponID] + "\n");
 {% endhighlight %}
 
 You can let some game object in the scene to handle all file staff. I put `_recordFile` into a script named `GameDataRecorder`. And hang it to a game object in the scene named `GameDataRecorder`. Finally, open some interfaces to let other script to use the file stream like this:
 
-{% highlight cs %}
+{% highlight csharp %}
     public StreamWriter playerFile      // open the interface
     {
         get
@@ -51,7 +51,7 @@ You can let some game object in the scene to handle all file staff. I put `_reco
 
 In other script that wants to use the file to write can code like this:
 
-	{% highlight cs %}
+	{% highlight csharp %}
     private GameDataRecorder dataRecorder;  // the script manages all data files
 
     void Start()
@@ -65,14 +65,14 @@ In other script that wants to use the file to write can code like this:
 
 And write data like this:
 
-{% highlight cs %}
+{% highlight csharp %}
         // Record changing weapon information [10/23/2016 Han]
         dataRecorder.playerFile.Write("\tto:\t" + weapons[weaponID] + "\n");
 {% endhighlight %}
 
 At last, don’t forget to close the file before application quit.
 
-{% highlight cs %}
+{% highlight csharp %}
     void OnApplicationQuit()
     {
         for (int i = 0; i < _recordFile.Count; i++)

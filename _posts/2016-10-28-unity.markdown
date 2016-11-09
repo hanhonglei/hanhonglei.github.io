@@ -8,7 +8,7 @@ categories: article unity game
 
 For `enum` defined in script, you can just declare it as `public`.
 
-{% highlight cs %}
+{% highlight csharp %}
 public enum GameLevel { Intro, Level1, Level2, Level3, Inbetween };
 public class GameManager : MonoBehaviour
 {
@@ -21,7 +21,7 @@ public GameLevel gameLevel;	// Editable in the editor
 
 For `class`, you should declare it as `Serializable` like this.
 
-{% highlight cs %}
+{% highlight csharp %}
 public class LevelManager : MonoBehaviour
 {
     [SerializeField]
