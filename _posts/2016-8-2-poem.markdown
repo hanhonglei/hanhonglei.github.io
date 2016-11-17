@@ -2,6 +2,7 @@
 layout: post
 title:  夏村的云
 date:   2016-8-2
+tags: featured
 categories: poem
 ---
 `《夏村的云》`

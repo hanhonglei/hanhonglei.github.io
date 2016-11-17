@@ -2,6 +2,7 @@
 layout: post
 title:  武汉三杰回国有感二首
 date:   2016-10-9
+tags: featured
 categories: poem
 ---
 `《武汉三杰回国有感二首》`

@@ -2,6 +2,7 @@
 layout: post
 title:  赞吾妻李岩--写在结婚十周年晚餐
 date:   2016-10-2
+tags: featured
 categories: poem
 ---
 `《赞吾妻李岩--写在结婚十周年晚餐》`
