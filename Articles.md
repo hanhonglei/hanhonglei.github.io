@@ -2,6 +2,7 @@
 layout: page
 title: Articles 杂文
 permalink: /articles/
+image: /Images/prepage.jpg
 ---
 <ul>
   {% for post in site.posts %}

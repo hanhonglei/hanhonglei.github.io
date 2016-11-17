@@ -2,6 +2,7 @@
 layout: page
 title: Links 资源
 permalink: /links/
+image: /Images/prepage.jpg
 ---
 ## Researches
 1. [Conferences and Meetings on Multimedia, Computer Graphics and Visualization](http://www.conference-service.com/conferences/multimedia.html)

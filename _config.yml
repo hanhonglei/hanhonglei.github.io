@@ -1,22 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Honglei Han 韩红雷的主页
+title: "Honglei Han 韩红雷的主页"
 email: hanhonglei@cuc.edu.cn
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "email:"
   Honglei Han from CUC
   
   中国传媒大学 游戏设计 韩红雷
@@ -24,17 +14,57 @@ description: > # this means to ignore newlines until "baseurl:"
   科研信息 个人介绍 开源项目 创作的部分古体诗
   
   Unity 3D 游戏引擎 Game Engine 游戏开发 计算机图形学 虚拟现实 Virtual Reality
+#blog logo
+logo: "/assets/images/logo.jpg"
+# blog cover
+cover: "/Images/Background.jpg"
+
+name: 'Honglei Han 韩红雷'
+author: 'Honglei Han 韩红雷'
+author_image: "/Images/MeComic.jpg"
+
+paginate:	5
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hanhonglei.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  hanhonglei
 
-# Build settings
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+#   - icon:	twitter
+#     url:	https://twitter.com/dirkfabisch
+#     desc: Follow me on twitter
+#     share_url: http://twitter.com/share
+#     share_title: ?text=
+#     share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+ - icon:	github
+   url:	https://github.com/hanhonglei
+   desc:	Fork me on github
+   share_url:
+   share_title:
+   share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
 markdown: kramdown
-theme: minima
 repository: hanhonglei/hanhonglei.github.io 
 
 excerpt_separator: <!--more-->
 
-gems:
-  - jekyll-feed
+google_analytics: UA-85986843-1

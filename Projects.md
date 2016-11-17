@@ -2,6 +2,7 @@
 layout: page
 title: Projects 项目
 permalink: /projects/
+image: /Images/prepage.jpg
 ---
 ## 1.	[Yotta](https://github.com/hanhonglei/Yotta)
 ![]({{site.url}}/Images/Proj/yotta.jpg){:width="300px"}
