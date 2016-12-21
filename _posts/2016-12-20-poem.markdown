@@ -1,24 +1,20 @@
 ---
 layout: post
-title:  "仲夏童趣"
-date:   2015-8-4
+title: 雾霾怪现状
+date: 2016-12-20
 categories: poem
 ---
-`《仲夏童趣》`
+`《雾霾怪现状》`
 
-烈日悬空午不休，三五稚子村外游。
+一寸江山一寸霾，更堪信义满尘埃。
 
-手持柳剑斩蝴蝶，脚跨竹马踏蚁窝。
-
-马蜂虽众靠智取，蜻蜓稀缺用计谋。
-
-泥丸干透赛卵石，架得弓上射野鸥。
+五千年间愚民策，家小难保武毅怀。
 
 <!--more-->
 
-- 每到这种炎热的夏日午间，就会回想起儿时玩耍的乐趣，特习作律诗一首纪念快乐的童年生活。
-
-![]({{site.url}}/Images/9.png)
+![]({{site.url}}/Images/56.jpg)
+![]({{site.url}}/Images/54.jpg)
+![]({{site.url}}/Images/55.jpg)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -2,7 +2,6 @@
 layout: post
 title:  贺首次在美授课毕
 date:   2016-10-7
-tags: featured
 categories: poem
 ---
 `《贺首次在美授课毕》`

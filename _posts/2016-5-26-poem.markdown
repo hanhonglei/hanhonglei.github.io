@@ -2,7 +2,6 @@
 layout: post
 title:  记CG美食节
 date:   2016-5-26
-tags: featured
 categories: poem
 ---
 `《记CG美食节》`

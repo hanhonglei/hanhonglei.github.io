@@ -2,7 +2,6 @@
 layout: post
 title:  晚来窗前观秋雨有感
 date:   2016-9-1
-tags: featured
 categories: poem
 ---
 `《晚来窗前观秋雨有感》`

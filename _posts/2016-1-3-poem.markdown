@@ -2,7 +2,6 @@
 layout: post
 title:  "元旦回母校怀旧"
 date:   2016-1-3
-tags: featured
 categories: poem
 ---
 `《元旦回母校怀旧》`

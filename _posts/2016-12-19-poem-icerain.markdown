@@ -1,24 +1,23 @@
 ---
 layout: post
-title:  "仲夏童趣"
-date:   2015-8-4
+title: 晨间冬雨有感
+date: 2016-12-19
 categories: poem
 ---
-`《仲夏童趣》`
+`《晨间冬雨有感》`
 
-烈日悬空午不休，三五稚子村外游。
+门前枫林碎，夏村冬意浓。
 
-手持柳剑斩蝴蝶，脚跨竹马踏蚁窝。
+诺曼湖满溢，翡翠塔常穹。
 
-马蜂虽众靠智取，蜻蜓稀缺用计谋。
+老友总别去，新朋难与共。
 
-泥丸干透赛卵石，架得弓上射野鸥。
+溪流载落叶，岁月逝隆中。
 
 <!--more-->
 
-- 每到这种炎热的夏日午间，就会回想起儿时玩耍的乐趣，特习作律诗一首纪念快乐的童年生活。
-
-![]({{site.url}}/Images/9.png)
+![]({{site.url}}/Images/57.jpg)
+![]({{site.url}}/Images/58.jpg)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
