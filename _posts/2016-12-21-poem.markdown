@@ -1,23 +1,22 @@
 ---
 layout: post
-title: 晨间冬雨有感
-date: 2016-12-19
+title: 冬至年终考核在异域怀旧友
+date: 2016-12-21
 categories: poem
 ---
-`《晨间冬雨有感》`
+`《冬至年终考核在异域怀旧友》`
 
-门前枫林碎，夏村冬意浓。
+又到年终考，相隔万里遥。
 
-诺曼湖满溢，翡翠塔常穹。
+把酒寄冬雪，随风入天朝。
 
-老友总别去，新朋难与共。
+时光不耐醉，岁月静安好。
 
-溪流载落叶，岁月逝隆中。
+相思终有尽，他日续同僚。
 
 <!--more-->
-
-![]({{site.url}}/Images/57.JPG)
-![]({{site.url}}/Images/58.JPG)
+![]({{site.url}}/Images/59.JPG)
+![]({{site.url}}/Images/60.JPG)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
