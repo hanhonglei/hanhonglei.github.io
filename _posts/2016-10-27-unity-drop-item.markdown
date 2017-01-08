@@ -9,7 +9,7 @@ categories: article unity game shooter
 
 Write a script named `EnemyDropItemProc` that would be grabbed into an enemy or other item-droppable objects. There are some adjustable parameters in this class:
 
-1. `Enemy Level` The enemies can be divided into several levels, there are 5 levels in the [Shooter Example]( https://github.com/hanhonglei/Shooter). It more likes that the enemy will drop the same level items when they killed by the player. Particular level means special.
+1. `Enemy Level` The enemies can be divided into several levels, there are 5 levels in the [Shooter Example](https://github.com/hanhonglei/Shooter). It more likes that the enemy will drop the same level items when they killed by the player. Particular level means special.
 
 2. `Level Manager` The pointer to the level manager in the scene. It will handle all item drop functions.
 

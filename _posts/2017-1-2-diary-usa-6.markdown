@@ -41,6 +41,15 @@ categories: diary usa scholar
 
 烹好三五家常菜，只把夏村作管庄。
 
+夏洛特有很多迷人的小公园，都依湖傍林而建，维护得很好，类似网球场、儿童乐园、沙滩排球场、烧烤区域等公共设施一应俱全，而且人少，是周末休闲的好去处。比如离我们很近的Reedy Creek Nature Center公园的设施就很全，里面还有一块保留地，有原始森林。Lake Norman周围也有两个公园很好，可以欣赏到美丽的湖景。Freedom Park则有一个很受欢迎的儿童区域。
+
+![]({{site.url}}/Images/DiaryUSA/image62.jpeg)
+![]({{site.url}}/Images/DiaryUSA/image63.jpeg)
+![]({{site.url}}/Images/DiaryUSA/image64.jpeg)
+![]({{site.url}}/Images/DiaryUSA/image65.jpeg)
+
+- [<--上一篇](/diary/usa/scholar/2017/01/02/diary-usa-5.html)		[下一篇-->](/diary/usa/scholar/2017/01/07/diary-usa-7.html)
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

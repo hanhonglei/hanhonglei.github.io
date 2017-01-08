@@ -37,7 +37,15 @@ categories: diary usa scholar
 
 ![]({{site.url}}/Images/DiaryUSA/image27.jpeg)
 
-就这样，在美国之后，我大约前后用了二十天，算是把所有有关车的手续办理完毕了。从那时起，我们出门就有腿了，可以跑一些远的地方了。
+就这样，在美国之后，我大约前后用了二十天，算是把所有有关车的手续办理完毕了。从那时起，我们出门就有腿了，可以跑一些远的地方了。但走的地方越多，越觉得夏洛特是个大小适中，气候宜人，人杰地灵的好地方。
+
+《旅游后重返家园》
+
+西游两周历千川，风物壮美人如山。
+
+他乡纵有千般好，家在夏村离舍难。
+
+- [<--上一篇](/diary/usa/scholar/2016/12/31/diary-usa-4.html)		[下一篇-->](/diary/usa/scholar/2017/01/02/diary-usa-6.html)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -38,6 +38,29 @@ categories: diary usa scholar
 
 闲坐在林中，心静逸思远。
 
+夏洛特的风光虽然赶不上美国西部那么奇美壮丽，但有一种常态美，你总是能不经意间发现美丽的景致。比如夏洛特的云就很有特点，为此，我还专门写过一首小诗。
+
+《夏村的云》
+
+一团锦绣一团麻，一层羽翼一层纱。
+
+天上仙人摇机杼，纺成山岳随风斜。
+
+![]({{site.url}}/Images/DiaryUSA/image58.jpeg)
+![]({{site.url}}/Images/DiaryUSA/image59.jpeg)
+![]({{site.url}}/Images/DiaryUSA/image60.jpeg)
+![]({{site.url}}/Images/DiaryUSA/image61.jpeg)
+
+夏洛特地处亚热带，气候宜人，为此，我也曾写过一首四季小诗来赞美。
+
+《夏洛特四季》
+
+春藏万物待升华，夏少苦热偶清凉。
+
+秋来沃土黄金色，冬有温情去寒霜。
+
+- [<--上一篇](/diary/usa/scholar/2016/12/31/diary-usa-3.html)		[下一篇-->](/diary/usa/scholar/2017/01/02/diary-usa-5.html)
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
