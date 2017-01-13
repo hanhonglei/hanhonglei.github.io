@@ -1,24 +1,25 @@
 ---
 layout: post
-title: 夏村雪降
-date: 2017-1-11
+title: 子夜吴歌·冬歌
+date: 2017-1-12
 categories: poem
 ---
-`《夏村雪降》`
 
-一夜冰雪始觉冬，门前熟径觅无踪。
+`《子夜吴歌·冬歌—写在刘胜华教授回国前，兼勉励孤身在夏村访学的各同仁》`​
 
-寒雪扮素千顷地，冷风吹亮万里空。
+天朝入腊月，渐闻爆竹声。
 
-顽童老叟自得趣，野鸥松鼠并无凶。
+霜雪遮不断，孤门望西风。
 
-天道何因气象变？眼前琐事让人庸。
+惟盼访学满，良人启归程。
 
 <!--more-->
 ![]({{site.url}}/Images/63.JPG)
-![]({{site.url}}/Images/64.JPG)
-![]({{site.url}}/Images/65.JPG)
-![]({{site.url}}/Images/66.PNG)
+![]({{site.url}}/Images/67.JPG)
+![]({{site.url}}/Images/68.JPG)
+![]({{site.url}}/Images/69.PNG)
+![]({{site.url}}/Images/70.JPG)
+![]({{site.url}}/Images/71.PNG)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
