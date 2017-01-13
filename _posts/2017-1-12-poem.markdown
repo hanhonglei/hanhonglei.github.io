@@ -17,9 +17,9 @@ categories: poem
 ![]({{site.url}}/Images/63.JPG)
 ![]({{site.url}}/Images/67.JPG)
 ![]({{site.url}}/Images/68.JPG)
-![]({{site.url}}/Images/69.PNG)
+![]({{site.url}}/Images/69.JPG)
 ![]({{site.url}}/Images/70.JPG)
-![]({{site.url}}/Images/71.PNG)
+![]({{site.url}}/Images/71.JPG)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
