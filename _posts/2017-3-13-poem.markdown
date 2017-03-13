@@ -1,0 +1,31 @@
+---
+layout: post
+title: 众老友离去有感
+date: 2017-3-13
+categories: poem
+---
+
+`《众老友离去有感》`
+
+数月共一处，总归有前缘。
+
+山城虽不适，夏村满悠闲。
+
+在时常相聚，别后鲜来言。
+
+天涯终有尽，相思坐无边？
+
+<!--more-->
+
+- 山城：山上的城（City upon a hill）指约翰·温斯罗普于1630年在一次著名的布道“基督徒慈善的典范”（A Model of Christian Charity）中提到的一个惯用语。他引用了马太福音5章14节耶稣的登山宝训中关于盐和光的隐喻：“你们是世上的光。城立在山上，是不能隐藏的。”，籍此鼓励殖民者将美洲殖民地建造成“山上的城”，被全球瞩目。在本诗中，代指美国。
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
