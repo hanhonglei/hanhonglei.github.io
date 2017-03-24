@@ -1,0 +1,31 @@
+---
+layout: post
+title: 本专业校友群创建伊始共勉
+date: 2017-3-21
+categories: poem
+---
+
+`《本专业校友群创建伊始共勉》`
+
+十载寒窗忆苍凉，四年学业洗铅华。
+
+常伴孤灯冷板凳，远离群宴暖裘床。
+
+不随浮生谓踌躇，紧跟贤达策经方。
+
+世事浮沉苦心志，天有定数眷孙康。
+
+<!--more-->
+
+![]({{site.url}}/Images/83.PNG)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
