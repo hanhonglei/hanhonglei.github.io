@@ -2,7 +2,7 @@
 layout: post
 title: 惜别朱教授
 date: 2017-3-26
-categories: poem
+categories: poem farewell
 ---
 
 `《惜别朱教授》`

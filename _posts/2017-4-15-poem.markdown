@@ -1,32 +1,17 @@
 ---
 layout: post
-title:  武汉三杰回国有感二首
-date:   2016-10-9
+title: 邱教授获满归国
+date: 2017-4-15
 categories: poem farewell
 ---
-`《武汉三杰回国有感二首》`
 
-`《其一》`
+`《邱教授获满归国》`
 
-访学如韭黄，新苗代旧芽。
+旅美秋天又春天，时光斗转亦安然。
 
-不忍送君去，我期何所长。
-
-`《其二》`
-
----与胡莹老师合作
-
-踏秋寒意降，银丝沁草香。 
-
-三杰离愁涌，五味归途尝。
-
-相思杳微信，互述寄鱼肠。
-
-遍忆四时景，惟念聚西洋。
+有闲笑看云中客，妻伴子随衣锦还。
 
 <!--more-->
-
-![]({{site.url}}/Images/35.PNG)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

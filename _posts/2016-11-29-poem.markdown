@@ -2,7 +2,7 @@
 layout: post
 title: 赠黄英
 date: 2016-11-29
-categories: poem
+categories: poem farewell
 ---
 `《赠黄英》`
 

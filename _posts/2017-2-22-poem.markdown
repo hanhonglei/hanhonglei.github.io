@@ -2,7 +2,7 @@
 layout: post
 title: 王教授旅美回国前夜
 date: 2017-2-22
-categories: poem
+categories: poem farewell
 ---
 
 `《王教授旅美回国前夜》`​​

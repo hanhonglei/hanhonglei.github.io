@@ -2,7 +2,7 @@
 layout: post
 title: 子夜吴歌·冬歌
 date: 2017-1-12
-categories: poem
+categories: poem farewell
 ---
 
 `《子夜吴歌·冬歌—写在刘胜华教授回国前，兼勉励孤身在夏村访学的各同仁》`​

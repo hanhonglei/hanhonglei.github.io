@@ -2,7 +2,7 @@
 layout: post
 title:  胡教授归国
 date:   2016-10-21
-categories: poem
+categories: poem farewell
 ---
 `《胡教授归国》`
 

@@ -2,7 +2,7 @@
 layout: post
 title:  送访学诸好友回国
 date:   2016-2-30
-categories: poem
+categories: poem farewell
 ---
 `《送访学诸好友回国》`
 

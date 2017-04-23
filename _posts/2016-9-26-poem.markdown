@@ -2,7 +2,7 @@
 layout: post
 title:  送管教授回国
 date:   2016-9-26
-categories: poem
+categories: poem farewell
 ---
 `《送管教授回国》` 
 

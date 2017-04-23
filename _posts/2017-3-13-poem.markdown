@@ -2,7 +2,7 @@
 layout: post
 title: 众老友离去有感
 date: 2017-3-13
-categories: poem
+categories: poem farewell
 ---
 
 `《众老友离去有感》`
