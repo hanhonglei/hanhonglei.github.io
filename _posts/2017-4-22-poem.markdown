@@ -6,6 +6,8 @@ categories: poem
 ---
 `夏村送别诗选`
 
+![]({{site.url}}/Images/87.jpg)
+
 <ul>
   {% for post in site.posts %}
 	{% if post.categories contains 'farewell' %} 
