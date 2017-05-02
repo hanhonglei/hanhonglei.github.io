@@ -2,7 +2,7 @@
 layout: post
 title: 夏村雪降
 date: 2017-1-11
-categories: poem
+categories: poem missing
 ---
 `《夏村雪降》`
 

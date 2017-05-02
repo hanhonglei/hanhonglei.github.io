@@ -8,6 +8,8 @@ categories: poem
 
 ![]({{site.url}}/Images/87.jpg)
 
+<!--more-->
+
 <ul>
   {% for post in site.posts %}
 	{% if post.categories contains 'farewell' %} 

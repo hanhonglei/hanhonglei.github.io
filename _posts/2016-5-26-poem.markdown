@@ -2,7 +2,7 @@
 layout: post
 title:  记CG美食节
 date:   2016-5-26
-categories: poem
+categories: poem missing
 ---
 `《记CG美食节》`
 

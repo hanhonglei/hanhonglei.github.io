@@ -3,7 +3,7 @@ layout: post
 title:  旅美中秋夜
 date:   2016-9-4
 tags: featured
-categories: poem
+categories: poem missing
 ---
 `《旅美中秋夜》`
 

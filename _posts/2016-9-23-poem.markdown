@@ -2,7 +2,7 @@
 layout: post
 title:  游园思君诗二首
 date:   2016-9-23
-categories: poem
+categories: poem missing
 ---
 `《游园思君诗二首》`
 

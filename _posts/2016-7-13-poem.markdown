@@ -2,7 +2,7 @@
 layout: post
 title:  旅游后重返家园
 date:   2016-7-13
-categories: poem
+categories: poem missing
 ---
 `《旅游后重返家园》`
 

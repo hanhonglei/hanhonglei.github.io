@@ -3,7 +3,7 @@ layout: post
 title:  晨间偶书
 date:   2016-9-30
 tags: featured
-categories: poem
+categories: poem missing
 ---
 `《晨间偶书》`
 

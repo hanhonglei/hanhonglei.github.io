@@ -2,7 +2,7 @@
 layout: post
 title:  访学
 date:   2016-1-29
-categories: poem
+categories: poem missing
 ---
 `《访学》`
 

@@ -2,7 +2,7 @@
 layout: post
 title: 旅美过除夕
 date: 2017-1-27
-categories: poem
+categories: poem missing
 ---
 
 `《旅美过除夕》`​​

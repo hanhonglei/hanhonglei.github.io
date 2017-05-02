@@ -2,7 +2,7 @@
 layout: post
 title:  晚餐
 date:   2016-5-4
-categories: poem
+categories: poem missing
 ---
 `《晚餐》`
 

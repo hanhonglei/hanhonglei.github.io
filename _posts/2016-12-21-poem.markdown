@@ -2,7 +2,7 @@
 layout: post
 title: 冬至年终考核在异域怀旧友
 date: 2016-12-21
-categories: poem
+categories: poem missing
 ---
 `《冬至年终考核在异域怀旧友》`
 

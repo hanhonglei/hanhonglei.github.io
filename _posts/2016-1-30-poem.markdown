@@ -2,7 +2,7 @@
 layout: post
 title:  初来美不适
 date:   2016-1-30
-categories: poem
+categories: poem missing
 ---
 `《初来美不适》`
 

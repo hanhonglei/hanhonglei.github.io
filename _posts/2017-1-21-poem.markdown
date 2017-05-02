@@ -2,7 +2,7 @@
 layout: post
 title: 孤身旅美小年夜
 date: 2017-1-21
-categories: poem
+categories: poem missing
 ---
 
 `《孤身旅美小年夜》`​

@@ -3,7 +3,7 @@ layout: post
 title:  异国秋雨
 date:   2016-9-2
 tags: featured
-categories: poem
+categories: poem missing
 ---
 `《异国秋雨》`
 

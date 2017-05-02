@@ -2,7 +2,7 @@
 layout: post
 title: 晨间冬雨有感
 date: 2016-12-19
-categories: poem
+categories: poem missing
 ---
 `《晨间冬雨有感》`
 

@@ -2,7 +2,7 @@
 layout: post
 title:  在美叹美食
 date:   2016-2-15
-categories: poem
+categories: poem missing
 ---
 `《在美叹美食》`
 
