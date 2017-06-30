@@ -5,7 +5,7 @@ permalink: /courses/
 image: /Images/prepage.jpg
 ---
 ## 1.	[Object-Oriented Game Programming 面向对象游戏程序设计](https://github.com/hanhonglei/Course_OOPGames)
-![]({{site.url}}/Images/Proj/OOP.jpg){:width="300px"}
+![]({{site.url}}/Images/OOP.jpg){:width="300px"}
 
 《面向对象的游戏程序设计》主要任务是介绍 C++ 语言中的数据类型，运算，语句结构及其程序设计的基本方法。
 
@@ -14,7 +14,7 @@ image: /Images/prepage.jpg
 要求学生掌握C++程序设计及开发，并在游戏设计及开发中充分利用C++思想开发高效率的游戏。
 
 ## 2.	[Game Physics 游戏物理学](https://github.com/hanhonglei/Course_GamePhysics) 
-![]({{site.url}}/Images/Proj/nvidia_logo2.jpg){:width="300px"}
+![]({{site.url}}/Images/nvidia_logo2.jpg){:width="300px"}
 
 Letting users feel the sense of reality is an important goal in game developing. By applying the laws of physics, you can realistically model nearly everything in, for example, bounces around, flies, rolls, slides, and collide between objects. Some more complex physics model can be simulated, such as fluid, cloth and exploit and so on. This course starts with basics of kinematics and dynamics. The methods of how to simulate physics in real world using computer will be introduce, with some sample programs. A physics engine will be introduced which should be used to practice speculative knowledge.
 
