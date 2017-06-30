@@ -17,6 +17,9 @@ categories: article Jekyll
 9. Use`[]` pair to indicate a hyperlink, follow up a `()` pair with a website address inside it. Such as {% raw %} `[Shooter](https://github.com/hanhonglei/Shooter)` {% endraw %}
 10. You can produce a horizontal rule tag by placing three or more hyphens, asterisks, or underscores on a line by themselves. `***` or `____`
 
+Resources:
+
+1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

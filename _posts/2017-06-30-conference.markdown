@@ -13,7 +13,7 @@ The CHI PLAY Student Game Competition will provide a unique opportunity for stud
 
 The ACM Symposium on Virtual Reality Software and Technology (VRST) is an international forum for the exchange of experience and knowledge among researchers and developers concerned with virtual and augmented reality (VR/AR) software and technology. VRST provides an opportunity for VR/AR researchers to interact, share new results, show live demonstrations of their work, and discuss emerging directions for the field. The event is sponsored by ACM SIGCHI and SIGGRAPH.
 
-## 1. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](https://vrst.acm.org/vrst2017/)
+## 3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](https://vrst.acm.org/vrst2017/)
 
 I3D is the leading conference for real time 3D computer graphics and human interaction. 2017 marks the 31st year since the first conference. We invite you to submit papers across the entire range of topics of interaction, interactive 3D graphics, and games. The fall deadline provides the perfect outlet for your summer work.
 
