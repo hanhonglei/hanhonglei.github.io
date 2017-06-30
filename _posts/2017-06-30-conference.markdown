@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some conferences
+title: Some game and computer graphics related conferences
 date: 2017-06-30
 categories: article conference game develop student
 ---
