@@ -13,14 +13,17 @@ The CHI PLAY Student Game Competition will provide a unique opportunity for stud
 
 The ACM Symposium on Virtual Reality Software and Technology (VRST) is an international forum for the exchange of experience and knowledge among researchers and developers concerned with virtual and augmented reality (VR/AR) software and technology. VRST provides an opportunity for VR/AR researchers to interact, share new results, show live demonstrations of their work, and discuss emerging directions for the field. The event is sponsored by ACM SIGCHI and SIGGRAPH.
 
-## 3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](https://vrst.acm.org/vrst2017/)
+## 3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2017/index.html)
 
 I3D is the leading conference for real time 3D computer graphics and human interaction. 2017 marks the 31st year since the first conference. We invite you to submit papers across the entire range of topics of interaction, interactive 3D graphics, and games. The fall deadline provides the perfect outlet for your summer work.
 
 As in the past, I3D will be held immediately before the Game Developers Conference (GDC), also in San Francisco. This is an excellent opportunity to attend both conferences and see both research and application in real time 3D computer graphics.
 
-## 4. [CIG: IEEE’s Conference on Computational Intelligence in Games](http://www.cig2017.com/)
+## 4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
 
+Games can be used as a challenging scenery for benchmarking methods from computational intelligence since they provide dynamic and competitive elements that are germane to real-world problems. This conference brings together leading researchers and practitioners from academia and industry to discuss recent advances and explore future directions in this field.
+
+The IEEE Conference on Computational Intelligence and Games is the premier annual event for researchers applying computational and artificial intelligence techniques to games. The domain of the conference includes all sorts of CI/AI applied to all sorts of games, including board games, video games and mathematical games.
 
 ## 5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
 
