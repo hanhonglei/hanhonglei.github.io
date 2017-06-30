@@ -9,7 +9,7 @@ categories: article conference game develop student
 ## 1.	[CHI PLAY: Student game design competition](http://chiplay.acm.org/2017/authors/student-game-design-competition/)
 The CHI PLAY Student Game Competition will provide a unique opportunity for students to showcase their interactive play systems and designs. Students will need to submit a video of their game as well as proof of student status (full-time or part-time, all levels up to Ph.D.). A jury panel will nominate the best submissions for an interactive presentation at the conference, where a panel of experts choose the winners. These nominated teams have to send at least one student member who will attend the conference. This team member is expected to present the game during the Student Game Competition Event and take part in the award ceremony. Supervisors are NOT accepted to present the game nor to accept the award. Registration and full attendance of at least one student from the team at the [CHI PLAY 2017](http://chiplay.acm.org/2017/) conference is mandatory.
 
-## 1.	[ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
+## 2.	[ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
 
 The ACM Symposium on Virtual Reality Software and Technology (VRST) is an international forum for the exchange of experience and knowledge among researchers and developers concerned with virtual and augmented reality (VR/AR) software and technology. VRST provides an opportunity for VR/AR researchers to interact, share new results, show live demonstrations of their work, and discuss emerging directions for the field. The event is sponsored by ACM SIGCHI and SIGGRAPH.
 
