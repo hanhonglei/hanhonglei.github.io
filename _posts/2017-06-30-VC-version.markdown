@@ -8,8 +8,11 @@ categories: article VC programming
 They are different builds for each version of Microsoft's Visual Studio compiler.
 
 vc14: The compiler packaged with Visual Studio 2015
+
 vc12: The compiler packaged with Visual Studio 2013
+
 vc11: The compiler packaged with Visual Studio 2012
+
 vc10: The compiler packaged with Visual Studio 2010
 
 
