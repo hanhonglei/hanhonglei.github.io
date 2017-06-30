@@ -19,10 +19,10 @@ I3D is the leading conference for real time 3D computer graphics and human inter
 
 As in the past, I3D will be held immediately before the Game Developers Conference (GDC), also in San Francisco. This is an excellent opportunity to attend both conferences and see both research and application in real time 3D computer graphics.
 
-## 1. [CIG: IEEE’s Conference on Computational Intelligence in Games](http://www.cig2017.com/)
+## 4. [CIG: IEEE’s Conference on Computational Intelligence in Games](http://www.cig2017.com/)
 
 
-## 1. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
+## 5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
 
 The International Conference on E-learning and Games (Edutainment) has over the last decade become a major international event for academics, practitioners and industry experts which combines knowledge dissemination and exchange in the areas of education and entertainment. Edutainment stands for education and entertainment, and the event covers not only research-related issues for fields such as game-based learning but also the aspects of learning experiences which may be gained from different types of digital entertainment.
 

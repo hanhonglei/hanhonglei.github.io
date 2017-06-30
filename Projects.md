@@ -4,6 +4,8 @@ title: Projects 项目
 permalink: /projects/
 image: /Images/prepage.jpg
 ---
+- :microscope: Some game and computer graphics related conferences can be found [here](https://hanhonglei.github.io/article/conference/game/develop/student/2017/06/30/conference.html)
+
 ## 1.	[Yotta](https://github.com/hanhonglei/Yotta)
 ![]({{site.url}}/Images/Proj/yotta.jpg){:width="300px"}
 
