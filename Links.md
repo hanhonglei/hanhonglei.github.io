@@ -4,6 +4,18 @@ title: Links 资源
 permalink: /links/
 image: /Images/prepage.jpg
 ---
+## Source control repository website
+1. [Github](https://github.com/)
+1. [Bitbucket](https://bitbucket.org/)
+1. Source control clinent software [SourceTree](https://www.sourcetreeapp.com/). A free Git client for Windows and Mac.
+
+## Academic conferences
+1. [CHI PLAY: Student game design competition](http://chiplay.acm.org/2017/authors/student-game-design-competition/)
+2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
+3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2017/index.html)
+4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
+5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
+
 ## Researches
 1. [Conferences and Meetings on Multimedia, Computer Graphics and Visualization](http://www.conference-service.com/conferences/multimedia.html)
 2. [图像 视觉显著性检测技术发展情况梳理(Saliency Detection、Visual Attention）](http://blog.csdn.net/anshan1984/article/details/8657176)
@@ -64,11 +76,12 @@ image: /Images/prepage.jpg
 8. [EasyX Library for C++](http://www.easyx.cn/)
 9. [中国科学技术大学精品课程C语言](http://www.bb.ustc.edu.cn/jpkc/xiaoji/c/)
 10. [STL Containers - C++ Reference](http://www.cplusplus.com/reference/stl/)
-11. [NeHe Productions GLSL An Introduction](http://nehe.gamedev.net/article/glsl_an_introduction/25007/)
+11. [NeHe Productions GLSL An Introduction](http://nehe.gamedev.net/article/glsl_an_introduction/25007/) 
 
 ## Applications
 1. [科学基金网络信息系统(ISIS)，科技管理信息系统](https://isisn.nsfc.gov.cn/egrantweb/)
 2. [国家留学基金管理委员会](http://www.csc.edu.cn/)
+1. [教育部人文社会科学研究管理平台](https://xm.sinoss.net)
 
 ## Game Engine
 1. [HTML5 Game Engines - Find Which is Right For You](http://html5gameengine.com/)
@@ -92,6 +105,8 @@ image: /Images/prepage.jpg
 
 ## Physics Simulation
 1. [Physx Tutorial](http://mmmovania.blogspot.com/)
+1. [NVIDIA PhysX](https://developer.nvidia.com/physx-sdk)
+1. [Havok Physics](https://www.havok.com/physics/)
 
 ## VR
 1. [Developer Center Oculus](https://developer.oculus.com/)
