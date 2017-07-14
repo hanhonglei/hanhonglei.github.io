@@ -1,0 +1,32 @@
+---
+layout: post
+title: 刘海教授学满归国
+date: 2017-07-14
+categories: poem farewell
+---
+
+`《刘海教授学满归国》`
+
+朝辞夏村一身轻，脚踏浮云万里平。
+
+旅居岁月堪回首，归家父母盼瞻听。
+
+他乡神佑千般好，我朝殷实满温情。
+
+道是相逢重聚日，把酒共忆美洲行。
+
+
+<!--more-->
+
+![]({{site.url}}/Images/90.jpg)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
