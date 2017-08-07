@@ -1,0 +1,40 @@
+---
+layout: post
+title: 思夏村
+date: 2017-08-04
+categories: poem charlotte farewell miss
+---
+
+`《思夏村》`
+
+一别夏村久，思绪总难平。
+
+云飘蓝天渺，鱼跃靛湖清。
+
+晨起红雀躁，晚来青蛙鸣。
+
+教堂巡远近，福音传古今。
+
+心静逸思远，眼阔道德明。
+
+今生再难见，何处了别情。
+
+
+<!--more-->
+
+![]({{site.url}}/Images/91.jpg)
+![]({{site.url}}/Images/92.jpg)
+![]({{site.url}}/Images/93.jpg)
+![]({{site.url}}/Images/94.jpg)
+![]({{site.url}}/Images/95.jpg)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
