@@ -2,7 +2,7 @@
 layout: post
 title: 思夏村
 date: 2017-08-04
-categories: poem charlotte farewell miss
+categories: poem charlotte farewell miss featured
 ---
 
 `《思夏村》`
