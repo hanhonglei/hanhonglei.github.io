@@ -142,6 +142,15 @@ You can also find the information of this paper in the `publications` page [here
 AnmTest.exe brachio.gif r
 {% endhighlight %}
 
+## 11. [A name card design template for staff of Animation School in CUC](https://github.com/hanhonglei/CUCAnimaNameCard)
+<img src="https://github.com/hanhonglei/CUCAnimaNameCard/blob/master/%E6%AD%A3%E9%9D%A2.jpg" width="300" />
+
+A name card design used for staff in Animation School in CUC.
+
+The file can be open in [Adobe Illustrator](https://www.adobe.com/cn/products/illustrator.html?promoid=PGRQQLFS&mv=other)
+
+The design elements are all from the others or internet.
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
