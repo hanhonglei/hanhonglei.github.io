@@ -70,6 +70,7 @@ image: /Images/prepage.jpg
 4.	[renchongyi分享的资源 - renchongyi的分享 - VeryCD电驴乐园]( http://www.verycd.com/i/1015652/create/folders/page7?stat=elite) 
 
 ## Programming
+### C Language
 1. [How to Get Started with C or C++ - Cprogramming.com](http://www.cprogramming.com/begin.html)
 2. [C程序设计 .. C语言 .. 从问题到程序](http://www.is.pku.edu.cn/~qzy/books/ptop/v2004/)
 3. [C语言程序设计 ](http://www.nttvu.edu.cn/sec/kcjx/c/)
@@ -81,6 +82,18 @@ image: /Images/prepage.jpg
 9. [中国科学技术大学精品课程C语言](http://www.bb.ustc.edu.cn/jpkc/xiaoji/c/)
 10. [STL Containers - C++ Reference](http://www.cplusplus.com/reference/stl/)
 11. [NeHe Productions GLSL An Introduction](http://nehe.gamedev.net/article/glsl_an_introduction/25007/) 
+
+### C++ Language
+1. [C++ Tutorial @ tutorialspoint.com](https://www.tutorialspoint.com/cplusplus/index.htm)
+1. [MIT Introduction to C Memory Management and C++ Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/lecture-notes/)
+1. [Programming Language Concepts](https://www.cise.ufl.edu/class/cop4020sp16/Notes.html)
+1. [Object-Oriented Programming @ nyu.edu](http://cs.nyu.edu/courses/fall15/CSCI-UA.0470-001/week-by-week.html)
+1. [C++入门](https://wizardforcel.gitbooks.io/w3school-cpp/content/Text/0000.html)
+1. [面向对象编程的概念和原理](https://www.ibm.com/developerworks/cn/java/j-perry-object-oriented-programming-concepts-and-principles/index.html)
+1. [C++ Programming Language -- Object-Oriented Programming (OOP) in C++](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp3_OOP.html#show-toc)
+1. [Object Oriented Programming with C++ @ codeproject.com](https://www.codeproject.com/Articles/835135/Object-Oriented-Programming-with-Cplusplus)
+1. [C++ Tutorial @ cplusplus.com](http://www.cplusplus.com/doc/tutorial/introduction/)
+1. [C++ Tutorial @ cprogramming.com](http://www.cprogramming.com/tutorial/c++-tutorial.html)
 
 ## Applications
 1. [科学基金网络信息系统(ISIS)，科技管理信息系统](https://isisn.nsfc.gov.cn/egrantweb/)
