@@ -1,0 +1,26 @@
+---
+layout: post
+title: 系里聚餐不至
+date: 2017-08-20
+categories: poem party
+---
+
+`系里聚餐不至`
+
+初秋阴雨秋气高，山河阻客在包头。
+
+同僚置酒皆欢聚，夏村散人叹今朝。
+
+<!--more-->
+![]({{site.url}}/Images/96.jpg)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
