@@ -57,6 +57,7 @@ image: /Images/prepage.jpg
 22.	[Sverre Aarseth's Institute of Astronomy N-Body and Downloads Page]( http://www.ast.cam.ac.uk/~sverre/web/pages/nbody.htm) 
 23.	[www.cs.wustl.edu ~cmg NSF nsf.html]( http://www.cs.wustl.edu/~cmg/NSF/nsf.html) 
 24.	[姬金祖主页]( http://jijinzu.buaa.edu.cn/) 
+25. [赵盛东主页](http://www.shengdongzhao.com/)
 
 ## Game Resources
 1. [3D模型库 - 3D模型 免费下载](http://www.3dcool.net/)
