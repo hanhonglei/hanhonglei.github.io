@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lost ablity to authenticate in SourceTree"
-date:   2015-5-11 16:46:31 -0400
+date:   2017-9-21
 categories: article sourcetree github
 ---
 ## Question
