@@ -6,7 +6,7 @@ image: /Images/prepage.jpg
 ---
 ## Upcoming academic events
 1. [2018 Workshop on Knowledge Extraction from Games](https://easychair.org/cfp/KEG-18)
-2. [AH2018: The 9th Augmented Human International Conference](https://easychair.org/cfp/AH2018)
+2. [AH2018: The 9th Augmented Human International Conference](https://easychair.org/cfp/AH2018) 
 
 ## Source control repository website
 1. [Github](https://github.com/)
