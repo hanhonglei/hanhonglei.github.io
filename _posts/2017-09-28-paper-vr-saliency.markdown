@@ -30,7 +30,7 @@ into how people explore virtual environments. We will make all captured data pub
 6. For experiments in VR, 86 users participated in our study (68 male, 18 female, age 17-22).
 7. Equipped with a pupil-labs1 stereoscopic eye tracker recording at 120 Hz. The DK2 offers a field of view of 106 &deg x87 &deg.
 8. In desktop condition, they recorded where the users interactively place the virtual camera in the panorama as a proxy for head orientation.
-9. We used thresholding based on dispersion and duration of the fixations[34]. For the VR experiments, we set the minimum duration to 150 ms [34] and the maximum dispersion to 1 &deg [][1].
+9. We used thresholding based on dispersion and duration of the fixations[34]. For the VR experiments, we set the minimum duration to 150 ms [34] and the maximum dispersion to 1 ° [][1].
 10. Tobii eyeX has significant jitter led to skipped fixations.
 11. Comparison metrics. We use the Inter-Observer Visual Congruency (IOVC) metric [25] when investigating whether two groups of users fixated in the same regions of a scene. Measuring the percentage of the other set of fixations that fall in the top 25% most salient regions of that map and vice versa, then
 averaging the two percentages. For comparisons between continuous saliency maps, we use the Pearson correlation (CC) metric, and the Earth’s Mover Distance
