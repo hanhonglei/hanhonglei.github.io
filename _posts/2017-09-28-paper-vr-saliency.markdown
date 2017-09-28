@@ -28,9 +28,9 @@ into how people explore virtual environments. We will make all captured data pub
 4. For more information on user behavior in VR, we refer to Ruhland et al. [33]
 5. The paper structure of user data study. In data capture section, use Conditions, Participants, and Procedure.
 6. For experiments in VR, 86 users participated in our study (68 male, 18 female, age 17-22).
-7. Equipped with a pupil-labs1 stereoscopic eye tracker recording at 120 Hz. The DK2 offers a field of view of 106 &deg x87 &deg.
+7. Equipped with a pupil-labs1 stereoscopic eye tracker recording at 120 Hz. The DK2 offers a field of view of 106° x 87°.
 8. In desktop condition, they recorded where the users interactively place the virtual camera in the panorama as a proxy for head orientation.
-9. We used thresholding based on dispersion and duration of the fixations[34]. For the VR experiments, we set the minimum duration to 150 ms [34] and the maximum dispersion to 1 ° [][1].
+9. We used thresholding based on dispersion and duration of the fixations[34]. For the VR experiments, we set the minimum duration to 150 ms [34] and the maximum dispersion to 1° [][1].
 10. Tobii eyeX has significant jitter led to skipped fixations.
 11. Comparison metrics. We use the Inter-Observer Visual Congruency (IOVC) metric [25] when investigating whether two groups of users fixated in the same regions of a scene. Measuring the percentage of the other set of fixations that fall in the top 25% most salient regions of that map and vice versa, then
 averaging the two percentages. For comparisons between continuous saliency maps, we use the Pearson correlation (CC) metric, and the Earth’s Mover Distance
@@ -40,7 +40,7 @@ averaging the two percentages. For comparisons between continuous saliency maps,
 14. The starting condition has little impact on which regions of the scene are attended to over the course of 30 seconds.
 15. Our data reveals that head follows gaze with an average delay of 58 ms, where the largest cross-correlation is observed. This is consistent with previous works [13, 10] reporting delays in head movement when shifting to a non-predictable target.
 16. when users are not fixating, head speeds are above average.
-17. Whenever head speed falls below the threshold of 19 &deg, the likelihood that the user is currently fixating is high.
+17. Whenever head speed falls below the threshold of 19°, the likelihood that the user is currently fixating is high.
 18. We conclude that head saliency maps, which are easily obtainable with inertial measurement units, can be a valuable tool to analyze the approximate regions that users attend to in a scene without the need for additional eye-tracking hardware.
 
 [1]: P. Blignaut. Fixation identification: The optimum threshold for a dispersion algorithm. Attention, Perception, & Psychophysics, 71(4):881–895, 2009. 3
