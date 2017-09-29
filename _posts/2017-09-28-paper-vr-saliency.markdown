@@ -25,26 +25,26 @@ into how people explore virtual environments. We will make all captured data pub
 1. It is crucial to understand how users explore virtual environments and to define what constitutes saliency in these immersive applications.
 2. Recently, advances in machine learning and particularly convolutional neuronal networks (CNNs) have fostered the convergence of topdown and bottom-up features for saliency prediction, producing more accurate models [37, 41, 38, 32, 27].
 3. What makes VR different from desktop viewing conditions is the fact that head orientation is used as a natural interface to control perspective.
-4. For more information on user behavior in VR, we refer to Ruhland et al. [33]
+4. For more information on user behavior in VR, we refer to Ruhland et al. [^33]
 5. The paper structure of user data study. In data capture section, use Conditions, Participants, and Procedure.
 6. For experiments in VR, 86 users participated in our study (68 male, 18 female, age 17-22).
 7. Equipped with a pupil-labs1 stereoscopic eye tracker recording at 120 Hz. The DK2 offers a field of view of 106° x 87°.
 8. In desktop condition, they recorded where the users interactively place the virtual camera in the panorama as a proxy for head orientation.
-9. We used thresholding based on dispersion and duration of the fixations[34]. For the VR experiments, we set the minimum duration to 150 ms [34] and the maximum dispersion to 1° [][1].
+9. We used thresholding based on dispersion and duration of the fixations[34]. For the VR experiments, we set the minimum duration to 150 ms [^34] and the maximum dispersion to 1° [^1].
 10. Tobii eyeX has significant jitter led to skipped fixations.
-11. Comparison metrics. We use the Inter-Observer Visual Congruency (IOVC) metric [25] when investigating whether two groups of users fixated in the same regions of a scene. Measuring the percentage of the other set of fixations that fall in the top 25% most salient regions of that map and vice versa, then
+11. Comparison metrics. We use the Inter-Observer Visual Congruency (IOVC) metric [^25] when investigating whether two groups of users fixated in the same regions of a scene. Measuring the percentage of the other set of fixations that fall in the top 25% most salient regions of that map and vice versa, then
 averaging the two percentages. For comparisons between continuous saliency maps, we use the Pearson correlation (CC) metric, and the Earth’s Mover Distance
 (EMD).
 12. Users tend to fixate around the equator of the panoramas, with very few fixations in latitudes far from the equator.
-13. Following a similar procedure to Judd et al. [19] we analyze the consistency of human fixations by computing the Shannon entropy of the saliency map.
+13. Following a similar procedure to Judd et al. [^19] we analyze the consistency of human fixations by computing the Shannon entropy of the saliency map.
 14. The starting condition has little impact on which regions of the scene are attended to over the course of 30 seconds.
 15. Our data reveals that head follows gaze with an average delay of 58 ms, where the largest cross-correlation is observed. This is consistent with previous works [13, 10] reporting delays in head movement when shifting to a non-predictable target.
 16. when users are not fixating, head speeds are above average.
 17. Whenever head speed falls below the threshold of 19°, the likelihood that the user is currently fixating is high.
 18. We conclude that head saliency maps, which are easily obtainable with inertial measurement units, can be a valuable tool to analyze the approximate regions that users attend to in a scene without the need for additional eye-tracking hardware.
 
-[1]: P. Blignaut. Fixation identification: The optimum threshold for a dispersion algorithm. Attention, Perception, & Psychophysics, 71(4):881–895, 2009. 3
-[2]: A. Borji and L. Itti. State-of-the-art in visual attention modeling. IEEE Trans. PAMI, 35(1):185–207, 2013. 1
+[^1]: P. Blignaut. Fixation identification: The optimum threshold for a dispersion algorithm. Attention, Perception, & Psychophysics, 71(4):881–895, 2009. 3
+[^2]: A. Borji and L. Itti. State-of-the-art in visual attention modeling. IEEE Trans. PAMI, 35(1):185–207, 2013. 1
 [3] Z. Bylinskii, T. Judd, A. Borji, L. Itti, F. Durand, A. Oliva,
 and A. Torralba. Mit saliency benchmark. 6
 [4] Z. Bylinskii, T. Judd, A. Oliva, A. Torralba, and F. Durand.
@@ -93,7 +93,7 @@ visual attention for rapid scene analysis. IEEE Trans. PAMI,
 [18] Y. Jia and M. Han. Category-independent object-level
 saliency detection. In Proc. IEEE CVPR, pages 1761–1768,
 2013. 2
-[19] T. Judd, K. Ehinger, F. Durand, and A. Torralba. Learning to
+[^19] T. Judd, K. Ehinger, F. Durand, and A. Torralba. Learning to
 predict where humans look. In Proc. IEEE ICCV, 2009. 2,
 3, 4
 [20] W. Kienzle, F. A.Wichmann, M. O. Franz, and B. Sch¨olkopf.
@@ -113,7 +113,7 @@ during human saccadic eye movements. The Journal of Physiology,
 [24] O. Le Meur and T. Baccino. Methods for comparing scanpaths
 and saliency maps: strengths and weaknesses. Behavior
 research methods, 45(1):251–266, 2013. 3
-[25] O. Le Meur, T. Baccino, and A. Roumy. Prediction of the
+[^25] O. Le Meur, T. Baccino, and A. Roumy. Prediction of the
 inter-observer visual congruency (iovc) and application to
 image ranking. In Proc. ACM Int. Conf. on Multimedia,
 pages 373–382. ACM, 2011. 3
@@ -140,7 +140,7 @@ selection in scene viewing. Journal of Vision, 10(8):20, 2010.
 O’Connor. Shallow and deep convolutional networks for
 saliency prediction. In Proc. IEEE CVPR, June 2016. 2,
 7
-[33] K. Ruhland, C. E. Peters, S. Andrist, J. B. Badler, N. I.
+[^33] K. Ruhland, C. E. Peters, S. Andrist, J. B. Badler, N. I.
 Badler, M. Gleicher, B. Mutlu, and R. McDonnell. A review
 of eye gaze in virtual agents, social robotics and hci: Behaviour
 generation, user interaction and perception. In Computer
