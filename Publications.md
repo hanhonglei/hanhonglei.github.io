@@ -11,6 +11,7 @@ image: /Images/prepage.jpg
 3.	廖祥忠，**韩红雷**，金炜，新媒体艺术与创新教育[C]，中国传媒大学出版社，ISBN：978-7-81127-308-3，2008年10月 [Link]()
 
 ## Papers 论文:
+1. **Honglei Han**, Aidong Lu, Unique Wells. Under the Movement of Head: Evaluating Visual Attention in Immersive Virtual Reality Environment. in Virtual Reality and Visualization (ICVRV), 2017 International Conference on. Accepted. [Project Website](https://github.com/hanhonglei/VRViewGuide)
 
 1.	Chanchan Xu, Guangzheng Fei, and **Honglei Han**. ProcPlan: A Procedural Evaluation Strategy for Tourist Attractions Planning [A]. In International Conference on Technologies for E-Learning and Digital Entertainment, pp. 257-266. Springer International Publishing, 2016.[Link](http://link.springer.com/chapter/10.1007/978-3-319-40259-8_23)
 1. 徐婵婵, 费广正, **韩红雷**. 面向移动设备的远程渲染技术综述. 计算机辅助设计与图形学学报. 2016;28(6):913-23. [PDF](http://www.jcad.cn/jcadcms/document/attach_manager!download.action?id=4ad554245421f2cd01551549da9a00f9)
