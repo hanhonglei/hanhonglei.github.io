@@ -158,6 +158,11 @@ The file can be open in [Adobe Illustrator](https://www.adobe.com/cn/products/il
 
 The design elements are all from the others or internet.
 
+## [Word Formatting](https://github.com/hanhonglei/WordFormatting)
+<img src="https://github.com/hanhonglei/WordFormatting/blob/master/Word.jpg" width="300" />
+
+How to format your doc using Microsoft Word. Introducing some skills and tricks to use functions in Word software to format a neat document.
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
