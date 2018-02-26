@@ -1,0 +1,39 @@
+---
+layout: post
+title: 文昌海岸闲住数景
+date: 2018-2-14
+categories: poem autumn short
+---
+
+`文昌海岸闲住数景`
+
+千亩椰林满东郊，一汪淇水绕龙楼。
+
+铜鼓岭上远观海，石头阵旁近听潮。
+
+红土田里忙农事，白沙滩前起渔樵。
+
+火箭重器惹人目，懒牛吃草自逍遥。
+
+<!--more-->
+![]({{site.url}}/Images/105.jpg)
+![]({{site.url}}/Images/106.jpg)
+![]({{site.url}}/Images/107.jpg)
+![]({{site.url}}/Images/108.jpg)
+![]({{site.url}}/Images/109.jpg)
+![]({{site.url}}/Images/110.jpg)
+![]({{site.url}}/Images/111.jpg)
+![]({{site.url}}/Images/112.jpg)
+![]({{site.url}}/Images/113.jpg)
+![]({{site.url}}/Images/114.jpg)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
