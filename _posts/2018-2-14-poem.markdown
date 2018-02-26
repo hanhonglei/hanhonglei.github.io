@@ -16,7 +16,6 @@ categories: poem autumn short
 火箭重器惹人目，懒牛吃草自逍遥。
 
 <!--more-->
-![]({{site.url}}/Images/105.jpg)
 ![]({{site.url}}/Images/106.jpg)
 ![]({{site.url}}/Images/107.jpg)
 ![]({{site.url}}/Images/108.jpg)
