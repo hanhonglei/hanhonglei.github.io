@@ -6,6 +6,13 @@ image: /Images/prepage.jpg
 ---
 - :microscope: Some game and computer graphics related conferences can be found [here](https://hanhonglei.github.io/article/conference/game/develop/student/2017/06/30/conference.html)
 
+## [Player Experience Information Evaluation in 3D Virtual Environments](https://github.com/hanhonglei/ExperienceEntropy)
+![]({{site.url}}/Images/Proj/information.jpg){:width="300px"}
+
+This is the project repository of the paper.
+
+A method to evaluate the amount of information a player can get during the process of exploring in a virtual scene is proposed. A novel perception probability estimation method is used to decide the probability distribution among task-related objects in the scene. The perception probability is then used into Shannon entropy equation to calculate the experience information amount. A user study is conducted to verify the effectiveness of the method proposed. The potential use of the method in the application of player type classification is presented in a game scene along with a questionnaire system.
+
 ## [Under the Movement of Head: Evaluating Visual Attention in Immersive Virtual Reality Environment](https://github.com/hanhonglei/VRViewGuide)
 ![]({{site.url}}/Images/Proj/userstudy.jpeg){:width="300px"}
 
