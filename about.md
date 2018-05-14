@@ -4,11 +4,11 @@ title: About 简历
 permalink: /about/
 image: /Images/prepage.jpg
 ---
-![]({{site.url}}/Images/Me.jpg){:height="150px"}
 ![]({{site.url}}/Images/MeComic.jpg){:height="150px"}
 ![]({{site.url}}/Images/MeHolo.JPG){:height="150px"}
 ![]({{site.url}}/Images/MeFromSherry.jpg){:height="150px"}
-![]({{site.url}}/Images/FamilySherry.jpg){:width="120px"}
+![]({{site.url}}/Images/MeUnity.jpg){:height="150px"}
+
 
 ## HAN, HONGLEI (韩红雷) 
 
