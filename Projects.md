@@ -157,7 +157,7 @@ AnmTest.exe brachio.gif r
 {% endhighlight %}
 
 ## [A name card design template for staff of Animation School in CUC](https://github.com/hanhonglei/CUCAnimaNameCard)
-<img src="https://github.com/hanhonglei/CUCAnimaNameCard/blob/master/%E6%AD%A3%E9%9D%A2.jpg" width="300" />
+![]({{site.url}}/Images/Proj/namecard.jpg){:width="300px"}
 
 A name card design used for staff in Animation School in CUC.
 
@@ -166,7 +166,7 @@ The file can be open in [Adobe Illustrator](https://www.adobe.com/cn/products/il
 The design elements are all from the others or internet.
 
 ## [Word Formatting](https://github.com/hanhonglei/WordFormatting)
-<img src="https://github.com/hanhonglei/WordFormatting/blob/master/Word.jpg" width="300" />
+![]({{site.url}}/Images/Proj/Word.jpg){:width="300px"}
 
 How to format your doc using Microsoft Word. Introducing some skills and tricks to use functions in Word software to format a neat document.
 
