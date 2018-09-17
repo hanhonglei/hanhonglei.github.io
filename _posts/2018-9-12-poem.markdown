@@ -1,0 +1,54 @@
+---
+layout: post
+title: 平常的一天——致零零后新生
+date: 2018-9-12
+categories: poem
+---
+​
+`平常的一天——致零零后新生`
+
+又是平常的一天
+稀薄的雾霾
+挡不住朝阳的光环
+
+又是平常的一天
+嘈杂的麻雀
+愈显出校园的安然
+
+又是平常的一天
+我踏着落叶
+努力站到了
+迎新队伍的前端
+
+好多年轻的面孔
+一丝生涩
+一丝茫然
+
+这是我平常的一天
+
+而你们
+这些背着行囊的少年
+却迎来了
+全新的冒险
+
+天 没有尽头
+地 没有边缘
+没什么能阻挡你们
+飞得更高
+走得更远
+
+<!--more-->
+![]({{site.url}}/Images/118.JPG)
+![]({{site.url}}/Images/119.JPG)
+![]({{site.url}}/Images/120.JPG)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
