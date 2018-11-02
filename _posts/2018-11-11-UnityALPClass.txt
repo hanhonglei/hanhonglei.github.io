@@ -6,7 +6,7 @@ tags: featured
 categories: unity class 
 ---
 # 和Unity公司合作打造的官方授权课程在蛮牛上线
-![]({{site.url}}/Images/121.png)
+![]({{site.url}}/Images/121.jpg)
 《Unity游戏开发教程》请[点击这里](http://edu.manew.com/course/702)
 
 ALP是Unity官方授权课程！

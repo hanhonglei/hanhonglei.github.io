@@ -5,7 +5,7 @@ permalink: /courses/
 image: /Images/prepage.jpg
 ---
 ## 1. [Unity官方授权课程--Unity游戏开发教程](http://edu.manew.com/course/702)
-![]({{site.url}}/Images/121.png){:width="300px"}
+![]({{site.url}}/Images/121.jpg){:width="300px"}
 
 课程亮:介绍全面、化繁为简。
 
