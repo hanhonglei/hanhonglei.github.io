@@ -1,0 +1,38 @@
+---
+layout: post
+title:  和Unity公司合作打造的官方授权课程在蛮牛上线
+date:   2018-11-11
+tags: featured
+categories: unity class 
+---
+# 和Unity公司合作打造的官方授权课程在蛮牛上线
+![]({{site.url}}/Images/121.png)
+《Unity游戏开发教程》请[点击这里](http://edu.manew.com/course/702)
+
+ALP是Unity官方授权课程！
+
+ALP项目的愿景是解决学习者“选课难”的问题，帮助他们直接接触到拥有最高质量和最新技术的课程，大量缩短他们从学习到专业使用Unity的时间。所有ALP的授权课程，都由Unity官方邀请业内知名教授和技术达人，在Unity官方团队的协助下，进行课程的设计开发，保证授权课程的科学性和权威性！
+
+## 课程亮点
+
+介绍全面、化繁为简。
+
+介绍全面指的是，该课程涵盖了游戏开发的几乎所有相关领域，包括了Unity编辑器、如何地形系统、脚本系统、动画系统、图形渲染系统、图形界面系统、物理系统、人工智能、音视频、联网等。
+
+化繁为简指的是，每个单元都有单独的实例展示，通过实例操作来达到学习的目的。更为重要的是，每个实例都只使用Unity自带的资源。这样避免了其他教程使用过于复杂的案例来讲解带来的问题，这些复杂案例会冲淡所学的主题，容易让学习者产生“乱花渐欲迷人眼”的窘况。抛开繁复的和所学主题无关的资源，可以让我们的学习目的更加明晰，达到“不为浮云遮望眼,只缘身在最高层”的学习成果。
+
+最后，再次附上中国地区首个Unity官方授权合作课程[《Unity游戏开发教程》的授课网站](http://edu.manew.com/course/702)。希望这是一个美好的开端，期待小伙伴们通过学习该课程，能迅速掌握Unity游戏开发技术，早日上线自己的原创游戏。
+
+
+<!--more-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
