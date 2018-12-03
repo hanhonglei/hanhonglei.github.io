@@ -2,7 +2,6 @@
 layout: post
 title: 生日夜自勉
 date: 2017-1-31
-tags: featured
 categories: poem
 ---
 
