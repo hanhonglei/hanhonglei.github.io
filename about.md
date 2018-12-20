@@ -16,6 +16,8 @@ Ph.D. Associate professor. [School of Animation and Digital Arts](http://animati
 
 He joined the Communication University of China (CUC) after receiving his M.S. degree in computer science from this college in 2006. He has been teaching various undergraduate and graduate courses in computer graphics, programming, and computer games at CUC, such as “Game programming foundation”, “Game engine”, “Physics simulation in computer games”, and “Script programming”. He received the Ph.D. degree from Institute of Software, Chinese Academy of Sciences in January 2015, under the supervision of [Prof. WANG, Wencheng](http://lcs.ios.ac.cn/~whn/). He had been staying at [University of North Carolina, Charlotte](http://www.uncc.edu) as a visiting scholar to conduct joint research and teach with [Prof. Aidong Lu](http://www.webpages.uncc.edu/alu1/), from Jan. 2016 to Jul. 2017, sponsored by the scholarship program of "specific government-sponsored art talents training program" from [China Scholarship Council](http://www.csc.edu.cn).
 
+He is qualified as a [Unity Certified Programmer](https://www.youracclaim.com/badges/1deb42d7-1544-43fd-a85e-5b9a18316ff9/public_url) and a [Unity Valuable Professional](https://connect.unity.com/p/uvpzhuan-jia-jie-shao) in 2018.
+
 ## Research: 
 
 Digital Game Design, Visual Reality, Computer Graphics
@@ -46,7 +48,7 @@ Digital Game Design, Visual Reality, Computer Graphics
 
 ## 韩红雷
 
-博士，副教授，男，1980年1月生人，籍贯山西太原，[中国传媒大学](http://www.cuc.edu.cn/)，游戏设计技术教研室主任。
+博士，副教授，男，1980年1月生人，籍贯山西太原，[中国传媒大学](http://www.cuc.edu.cn/)，游戏设计技术教研室主任。国内首批[Unity价值专家](https://connect.unity.com/p/uvpzhuan-jia-jie-shao)和[Unity认证工程师](https://www.youracclaim.com/badges/1deb42d7-1544-43fd-a85e-5b9a18316ff9/public_url)。
 
 2006年毕业于[中国传媒大学](http://www.cuc.edu.cn/)，获工学硕士学位，专业为计算机应用技术。2015年1月毕业于[中国科学院软件研究所](http://www.is.cas.cn)，获博士学位，专业为计算机应用技术（计算机图形学方向）。2016年1月至2017年7月获得[国家留学基金委](http://www.csc.edu.cn)的“艺术类特殊人才项目”资助，前往University of North Carolina at Charlotte(美国[北卡罗来纳大学夏洛特分校](http://www.uncc.edu))进行访问学者合作研究和教学，合作教授[鲁爱东](http://www.webpages.uncc.edu/alu1/)。
 
