@@ -4,14 +4,44 @@ title: Links 资源
 permalink: /links/
 image: /Images/prepage.jpg
 ---
-## Upcoming academic events
-1. [2018 Workshop on Knowledge Extraction from Games](https://easychair.org/cfp/KEG-18)
-2. [AH2018: The 9th Augmented Human International Conference](https://easychair.org/cfp/AH2018) 
-
 ## Source control repository website
 1. [Github](https://github.com/)
 1. [Bitbucket](https://bitbucket.org/)
 1. Source control clinent software [SourceTree](https://www.sourcetreeapp.com/). A free Git client for Windows and Mac.
+
+## Journals
+1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)
+1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)
+1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
+1. [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
+
+## Computer Graphics Journals
+1. [ACM Transactions on Graphics (TOG)](http://www.acm.org/tog/)
+1. [Computer Graphics Forum (CGF)](http://www.blackwellpublishing.com/journal.asp?ref=0167-7055&site=1)
+1. [IEEE Transactions on Visualization and Computer Graphics (TVCG)](http://www.computer.org/tvcg/)
+1. [IEEE Computer Graphics and Applications (CG&A)](http://www.computer.org/cga/)
+1. [Computers & Graphics](http://www.elsevier.com/locate/cag)
+1. [The Visual Computer](http://link.springer.de/link/service/journals/00371/index.htm)
+1. [Journal of graphics tools](http://jgt.akpeters.com/)
+1. [Graphical Models (formerly Graphical Models and Image Processing)](http://www.elsevier.com/locate/gmod)
+1. [ACM Computers in Entertainment](https://cie.acm.org/)
+1. [Journal of Computer Animation and Virtual Worlds (was Journal of Visualization and Computer Animation prior to 2004)](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-CAV.html)
+1. [Foundations and Trends in Computer Graphics and Vision](http://www.nowpublishers.com/cgv)
+1. [International Journal Machine Graphics & Vision (MGV)](http://mgv.wzim.sggw.pl/)
+1. [International Journal of Image and Graphics (IJIG)](http://www.worldscinet.com/ijig/)
+1. [International Journal of Computer Games Technology](http://www.hindawi.com/journals/ijcgt/)
+1. [Multimedia Technology](http://www.seipub.org/mt/)
+1. [Entertainment Computing](http://www.elsevier.com/wps/find/journaldescription.cws_home/717010/description#description)
+1. [International Journal of Multimedia](http://sciforschenonline.org/journals/multimedia/)
+1. [GSTF Journal on Computer Games and Multimedia](http://www.globalstf.org/publications/jcgm/index.php)
+1. [World Journal of Computer Application and Technology](http://www.hrpub.org/journals/jour_info.php?id=37)
+1. [Computer Science and Information Technology](http://www.hrpub.org/journals/jour_info.php?id=35)
+1. [CG Educational Materials Source (CGEMS)](http://cgems.inesc-id.pt/)
+1. [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://www.computer.org/pami/)
+1. [International Journal on Computer Vision](http://www.kluweronline.com/issn/0920-5691/current)
+1. [Computer Aided Geometric Design](http://ees.elsevier.com/cagd/)
+1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
+1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
 
 ## Academic conferences
 1. [CHI PLAY: Student game design competition](http://chiplay.acm.org/2017/authors/student-game-design-competition/)
