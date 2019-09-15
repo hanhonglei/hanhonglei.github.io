@@ -15,6 +15,14 @@ image: /Images/prepage.jpg
 1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
 1. [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
 
+## Academic conferences
+1. [Foundations of Digital Games](http://fdg2019.org/) Foundations of Digital Games is a major international "big tent" academic conference dedicated to exploring the latest research in all aspects of digital games. FDG is usually held in Europe or North America once a year. 
+1. [CHI PLAY: Student game design competition](http://chiplay.acm.org/2017/authors/student-game-design-competition/)
+2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
+3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2017/index.html)
+4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
+5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
+
 ## Computer Graphics Journals
 1. [ACM Transactions on Graphics (TOG)](http://www.acm.org/tog/)
 1. [Computer Graphics Forum (CGF)](http://www.blackwellpublishing.com/journal.asp?ref=0167-7055&site=1)
@@ -42,13 +50,6 @@ image: /Images/prepage.jpg
 1. [Computer Aided Geometric Design](http://ees.elsevier.com/cagd/)
 1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
 1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
-
-## Academic conferences
-1. [CHI PLAY: Student game design competition](http://chiplay.acm.org/2017/authors/student-game-design-competition/)
-2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
-3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2017/index.html)
-4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
-5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
 
 ## Researches
 1. [Conferences and Meetings on Multimedia, Computer Graphics and Visualization](http://www.conference-service.com/conferences/multimedia.html)
