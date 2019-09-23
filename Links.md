@@ -4,18 +4,17 @@ title: Links 资源
 permalink: /links/
 image: /Images/prepage.jpg
 ---
-## Source control repository website
-1. [Github](https://github.com/)
-1. [Bitbucket](https://bitbucket.org/)
-1. Source control clinent software [SourceTree](https://www.sourcetreeapp.com/). A free Git client for Windows and Mac.
 
-## Journals
+## Game Journals
 1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)
 1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)
 1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
 1. [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
+1. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)
+1. [Simulation & Gaming](https://journals.sagepub.com/home/sag)
+1. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)
 
-## Academic conferences
+## Game Academic conferences
 1. [Foundations of Digital Games](http://fdg2019.org/) Foundations of Digital Games is a major international "big tent" academic conference dedicated to exploring the latest research in all aspects of digital games. FDG is usually held in Europe or North America once a year. 
 1. [CHI PLAY: Student game design competition](http://chiplay.acm.org/2017/authors/student-game-design-competition/)
 2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
@@ -50,6 +49,12 @@ image: /Images/prepage.jpg
 1. [Computer Aided Geometric Design](http://ees.elsevier.com/cagd/)
 1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
 1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
+
+## Applications
+1. [BEST MASTER’S IN GAME DESIGN DEGREES](https://www.collegechoice.net/rankings/best-masters-in-game-design-degrees/)
+1. [科学基金网络信息系统(ISIS)，科技管理信息系统](https://isisn.nsfc.gov.cn/egrantweb/)
+2. [国家留学基金管理委员会](http://www.csc.edu.cn/)
+1. [教育部人文社会科学研究管理平台](https://xm.sinoss.net)
 
 ## Researches
 1. [Conferences and Meetings on Multimedia, Computer Graphics and Visualization](http://www.conference-service.com/conferences/multimedia.html)
@@ -90,6 +95,11 @@ image: /Images/prepage.jpg
 24.	[姬金祖主页]( http://jijinzu.buaa.edu.cn/) 
 25. [赵盛东主页](http://www.shengdongzhao.com/)
 
+## Source control repository website
+1. [Github](https://github.com/)
+1. [Bitbucket](https://bitbucket.org/)
+1. Source control clinent software [SourceTree](https://www.sourcetreeapp.com/). A free Git client for Windows and Mac.
+
 ## Game Resources
 1. [3D模型库 - 3D模型 免费下载](http://www.3dcool.net/)
 2. [3D模型下载,3D模型免费下载,3D模型库下载,3D模型库免费下载](http://www.3dfrom.com/?jdfwkey=yrfuv1)
@@ -126,11 +136,6 @@ image: /Images/prepage.jpg
 1. [Object Oriented Programming with C++ @ codeproject.com](https://www.codeproject.com/Articles/835135/Object-Oriented-Programming-with-Cplusplus)
 1. [C++ Tutorial @ cplusplus.com](http://www.cplusplus.com/doc/tutorial/introduction/)
 1. [C++ Tutorial @ cprogramming.com](http://www.cprogramming.com/tutorial/c++-tutorial.html)
-
-## Applications
-1. [科学基金网络信息系统(ISIS)，科技管理信息系统](https://isisn.nsfc.gov.cn/egrantweb/)
-2. [国家留学基金管理委员会](http://www.csc.edu.cn/)
-1. [教育部人文社会科学研究管理平台](https://xm.sinoss.net)
 
 ## Game Engine
 1. [HTML5 Game Engines - Find Which is Right For You](http://html5gameengine.com/)
