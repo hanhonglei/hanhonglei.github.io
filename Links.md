@@ -13,6 +13,8 @@ image: /Images/prepage.jpg
 1. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)
 1. [Simulation & Gaming](https://journals.sagepub.com/home/sag)
 1. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)
+1. [Sensors SCI indexed](https://www.mdpi.com/journal/sensors) The leading international peer-reviewed open access journal on the science and technology of sensors and biosensors
+1. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
 
 ## Game Academic conferences
 1. [Foundations of Digital Games](http://fdg2019.org/) Foundations of Digital Games is a major international "big tent" academic conference dedicated to exploring the latest research in all aspects of digital games. FDG is usually held in Europe or North America once a year. 
