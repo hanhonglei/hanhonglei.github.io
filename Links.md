@@ -17,6 +17,7 @@ image: /Images/prepage.jpg
 1. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
 
 ## Game Academic conferences
+1. [IEEE CONFERENCE ON GAMES](http://ieee-cog.org/2020/cfp)
 1. [Foundations of Digital Games](http://fdg2019.org/) Foundations of Digital Games is a major international "big tent" academic conference dedicated to exploring the latest research in all aspects of digital games. FDG is usually held in Europe or North America once a year. 
 1. [CHI PLAY: Student game design competition](http://chiplay.acm.org/2017/authors/student-game-design-competition/)
 2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
