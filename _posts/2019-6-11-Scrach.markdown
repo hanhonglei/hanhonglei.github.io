@@ -2,7 +2,6 @@
 layout: post
 title:  杂记
 date:   2019-6-11
-tags: featured
 categories: article 
 ---
 
