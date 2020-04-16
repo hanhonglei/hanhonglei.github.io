@@ -6,9 +6,9 @@ image: /Images/prepage.jpg
 ---
 
 ## Game Journals
-1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)
-1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)
-1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
+1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E)
+1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)(SCI)
+1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)(SCI)
 1. [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
 1. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)
 1. [Simulation & Gaming](https://journals.sagepub.com/home/sag)
