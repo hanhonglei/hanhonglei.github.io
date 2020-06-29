@@ -1,0 +1,95 @@
+---
+layout: post
+title: How to write game data into external files in `Unity 3D` using `C#`
+date: 2016-10-24
+categories: article unity game
+---
+
+<!--more-->
+You can write data in a stream form. Can also use formatted string similar with `C` or `C++`.
+
+Open several files for writing like this below. If the file exists, it will be overwritten.
+
+{% highlight csharp %}
+    private List<StreamWriter> _recordFile;
+
+    // Use this for initialization
+    void Start()
+    {
+        _recordFile = new List<StreamWriter>();
+        _recordFile.Add(File.CreateText("PlayerRecord" + Random.value));
+        _recordFile.Add(File.CreateText("CameraRecord" + Random.value));
+    }
+{% endhighlight %}
+
+Write data like this:
+
+{% highlight csharp %}
+        // Record fire information [10/23/2016 Han]
+        dataRecorder.playerFile.Write(Time.time + "\tPlayer fire" + "\tusing weapon:\t" + weapons[weaponID] + "\n");
+{% endhighlight %}
+
+You can let some game object in the scene to handle all file staff. I put `_recordFile` into a script named `GameDataRecorder`. And hang it to a game object in the scene named `GameDataRecorder`. Finally, open some interfaces to let other script to use the file stream like this:
+
+{% highlight csharp %}
+    public StreamWriter playerFile      // open the interface
+    {
+        get
+        {
+            return _recordFile[0];
+        }
+    }
+    public StreamWriter cameraFile
+    {
+        get
+        {
+            return _recordFile[1];
+        }
+
+    }
+{% endhighlight %}
+
+In other script that wants to use the file to write can code like this:
+
+	{% highlight csharp %}
+    private GameDataRecorder dataRecorder;  // the script manages all data files
+
+    void Start()
+    {
+        // Get the game data record file from game manager [10/23/2016 Han]
+        dataRecorder = GameObject.FindWithTag(Tags.gameController).GetComponent<GameDataRecorder>();
+        Debug.Assert(dataRecorder);
+
+    }
+{% endhighlight %}
+
+And write data like this:
+
+{% highlight csharp %}
+        // Record changing weapon information [10/23/2016 Han]
+        dataRecorder.playerFile.Write("\tto:\t" + weapons[weaponID] + "\n");
+{% endhighlight %}
+
+At last, don’t forget to close the file before application quit.
+
+{% highlight csharp %}
+    void OnApplicationQuit()
+    {
+        for (int i = 0; i < _recordFile.Count; i++)
+        {
+            _recordFile[i].Close();
+        }
+    }
+{% endhighlight %}
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

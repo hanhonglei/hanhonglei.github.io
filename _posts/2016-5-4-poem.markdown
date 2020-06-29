@@ -1,0 +1,26 @@
+---
+layout: post
+title:  晚餐
+date:   2016-5-4
+categories: poem missing
+---
+`《晚餐》`
+
+异域饮食不舒康，幸有贤妻下厨房。
+
+烹好三五家常菜，只把夏村作管庄。
+
+<!--more-->
+
+![]({{site.url}}/Images/17.png)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

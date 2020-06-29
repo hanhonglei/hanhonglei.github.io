@@ -1,0 +1,66 @@
+---
+layout: post
+title: 思夏村
+date: 2017-08-04
+categories: poem charlotte farewell miss
+---
+
+`《思夏村》`
+
+一别夏村久，思绪总难平。
+
+云飘蓝天渺，鱼跃靛湖清。
+
+晨起红雀躁，晚来青蛙鸣。
+
+教堂巡远近，福音传古今。
+
+心静逸思远，眼阔道德明。
+
+今生再难见，何处了别情。
+
+
+<!--more-->
+​
+`Missing Charlotte`
+
+It's such a long time since said farewell to Charlotte city
+
+Miss waves can't stay still
+
+I can remember the floating clouds made blue sky even higher
+
+The jumping fish made dark lake even clearer
+
+Red birds sang in the morning
+
+And green toads made noise in the evening
+
+The church shows it's influence to the community
+
+The gospel has guided people along the history
+
+My mind was free because of the peaceful heart
+
+The Word was understood because of my opened eyes
+
+There may not have an opportunity for me to revisit the Queen City
+
+I'm wondering, then, where can I put my miss on any?
+
+![]({{site.url}}/Images/91.JPG)
+![]({{site.url}}/Images/92.JPG)
+![]({{site.url}}/Images/93.JPG)
+![]({{site.url}}/Images/94.JPG)
+![]({{site.url}}/Images/95.JPG)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

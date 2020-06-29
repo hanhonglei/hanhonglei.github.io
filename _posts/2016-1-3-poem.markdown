@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "元旦回母校怀旧"
+date:   2016-1-3
+categories: poem
+---
+`《元旦回母校怀旧》`
+
+四年朝夕伴，离校一纪长。
+
+苑中亭犹在，门内石敢当。
+
+旧舍沉岁月，新楼流时光。
+
+芸芸擦身过，无人肯相望。
+
+<!--more-->
+
+![]({{site.url}}/Images/14.png)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

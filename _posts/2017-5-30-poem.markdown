@@ -1,0 +1,27 @@
+---
+layout: post
+title: 送别朱杨二资深教授
+date: 2017-5-30
+categories: poem farewell
+---
+
+`《送别朱杨二资深教授》`
+
+夕阳撒影满萧然，长亭置酒意阑珊。
+
+随缘何须长厮守，夏村有道爱相传。
+
+<!--more-->
+
+![]({{site.url}}/Images/89.jpg)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

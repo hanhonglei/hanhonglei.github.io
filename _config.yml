@@ -1,0 +1,70 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Honglei Han 韩红雷的主页"
+email: hanhonglei@cuc.edu.cn
+description: > # this means to ignore newlines until "email:"
+  Honglei Han from CUC
+  
+  中国传媒大学 游戏设计 韩红雷
+  
+  科研信息 所带课程 个人介绍 开源项目 创作的部分古体诗
+  
+  Unity 3D 游戏引擎 Game Engine 游戏开发 计算机图形学 虚拟现实 Virtual Reality 程序设计 Programming
+#blog logo
+logo: "/assets/images/logo.jpg"
+# blog cover
+cover: "/Images/Background.jpg"
+
+name: 'Honglei Han 韩红雷'
+author: 'Honglei Han 韩红雷'
+author_image: "/Images/MeComic.jpg"
+
+paginate:	5
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hanhonglei.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  hanhonglei
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+#   - icon:	twitter
+#     url:	https://twitter.com/dirkfabisch
+#     desc: Follow me on twitter
+#     share_url: http://twitter.com/share
+#     share_title: ?text=
+#     share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+ - icon:	github
+   url:	https://github.com/hanhonglei
+   desc:	Fork me on github
+   share_url:
+   share_title:
+   share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
+markdown: kramdown
+repository: hanhonglei/hanhonglei.github.io 
+
+excerpt_separator: <!--more-->
+
+#google_analytics: UA-85986843-1

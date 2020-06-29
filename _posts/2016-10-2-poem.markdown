@@ -1,0 +1,32 @@
+---
+layout: post
+title:  赞吾妻李岩--写在结婚十周年晚餐
+date:   2016-10-2
+categories: poem
+---
+`《赞吾妻李岩--写在结婚十周年晚餐》`
+
+心静不耐世喧哗，惟喜窗前巧梳妆。
+
+常怀善心逐鼎玉，无怨素面对糟糠。
+
+德行淑良能教子，衣厨规划善持家。
+
+可贺十年得冠冕，呼儿斟酒述衷肠。
+
+<!--more-->
+
+- 注：最后一句“…得冠冕”，语出<圣经>，"箴言"12:4 ，“才德的妇人是丈夫的冠冕……”
+
+![]({{site.url}}/Images/31.png)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

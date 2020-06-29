@@ -1,0 +1,32 @@
+---
+layout: post
+title: 阳光论坛
+date: 2018-5-31
+categories: poem
+---
+​
+`阳光论坛`
+
+云淡风轻夏日天，象牙塔里远尘烟。
+
+俯身满地花间叶，抬眼一树枝头蝉。
+
+教学楼旁论道场，图书馆前讲学坛。
+
+人生焉有重来日？宜趁年少立三观。
+​
+
+<!--more-->
+![]({{site.url}}/Images/117.JPG)
+![]({{site.url}}/Images/116.JPG)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

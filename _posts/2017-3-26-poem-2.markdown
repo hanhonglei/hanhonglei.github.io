@@ -1,0 +1,27 @@
+---
+layout: post
+title: 春雪
+date: 2017-3-26
+categories: poem
+---
+​
+`《春雪》`
+
+二月春满又飞花，片片银丝入谁家。
+
+风寒不阻闲居客，桥头踏雪弄柳芽。
+
+<!--more-->
+
+![]({{site.url}}/Images/86.JPG)
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85986843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
