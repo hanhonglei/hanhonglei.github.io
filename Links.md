@@ -5,6 +5,35 @@ permalink: /links/
 image: /Images/prepage.jpg
 ---
 
+## Resources
+1. [How an independent researcher wrote a SIGGRAPH paper](http://www.mattkeeter.com/projects/siggraph/)
+2. [The usual advice regarding rebuttals](https://people.csail.mit.edu/fredo/rebuttal_advice.txt)
+2. [How to do rebuttals](https://blog.liyiwei.org/?p=284)
+2. [9 good habits](https://mp.weixin.qq.com/s/Mp_dqFNKE_HAN0RRnufY1A)
+3. [How to write papers and reviews well](https://mp.weixin.qq.com/s/pToznP30eir5NBvWTqSoew)
+2. [Some advices for new master students](https://mp.weixin.qq.com/s/GZ8plpfZcpypKAn-38gW1Q)
+3. [Interest curve and new player guidence](https://mp.weixin.qq.com/s/PlkAeYN0KGmkpSqYBIIf7A)
+4. [How to read research papers](https://mp.weixin.qq.com/s/GKgwudxwUN4kvZfjeoUdEg)
+5. [Some common mistakes in the first research paper of master students](https://mp.weixin.qq.com/s/yOP4mg4Cin4nDmR3hZaHLg)
+6. [Some useful tricks in unity](https://unity.cn/projects/unity3d-shi-yong-ji-qiao-li-lun-zhi-shi-ku-yi)
+7. [Advices on how to read research papers](https://mp.weixin.qq.com/s/4hTgiHHqktc-DCEOascxgg)
+8. [18 tips of writing a rebuttal](https://mp.weixin.qq.com/s/quXj005yvAxHp772u1T8iA)
+9. [How to write research papers](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg)
+1. [Ten Scientific Problems in Human Behavior Understanding](https://mp.weixin.qq.com/s/9H8IW07tUNnpJaAFhNkbkg)
+2. [Academic Phrasebank](https://zhuanlan.zhihu.com/p/95673708?utm_source=wechat_session&utm_medium=social&utm_oi=638822070432174080&s_s_i=X80zlZiT4TW%2Fb8iN%2B5qREjs9tDE5fi%2FafTiUTJyIRys%3D&s_r=1&from=timeline&isappinstalled=0)
+2. [Some useful asset packs in unity](https://mp.weixin.qq.com/s/h9RTKckcQIrSC70YFizY_g)
+3. [Research paper structures](https://mp.weixin.qq.com/s/nfUwDuCY0QT97DuLy3RpbA)
+3. [An introduction to conferences of Computer Graphics and Multimedia](https://mp.weixin.qq.com/s/Zm_woUee0PxfFmlzXKnrDQ)
+3. [NSFC applications](https://mp.weixin.qq.com/s/eRv3Njjro3r25mWa2hJFOQ)
+1. [9 programming languages](https://mp.weixin.qq.com/s/tkwSUTsWRhHJANSta231ig)
+1. [Environment assets packs in unity](https://mp.weixin.qq.com/s/gx3DAxeuFFZxI2JhRHPHcg)
+1. [10 books for computer graphics study](https://mp.weixin.qq.com/s/R6xo__164j5UJ4LNf2f90g)
+2. [From MIT: How to be a good master student](https://mp.weixin.qq.com/s/PCBcL2eK6Dcw4YDNvIrNDw)
+1. [Online courses of unity](https://connect.unity.com/p/2019zhi-bo-hui-zong-unityguan-fang-zhi-bo-lu-bo-hui-zong)
+2. [ATTENTION NOT IMMERSION](https://mp.weixin.qq.com/s/7B8cWn2oom5IveeAk9kukg)
+2. [Create assets from photos in unity](https://mp.weixin.qq.com/s/51z2ts4fDl3QS5BJZj8CRA)
+2. [Procedural Contents Generating in unity](https://mp.weixin.qq.com/s/tF0fMNOpXMzEKHGSxIdY8w)
+
 ## Game Journals
 1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E)
 1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)(SCI)
@@ -24,6 +53,8 @@ image: /Images/prepage.jpg
 3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2017/index.html)
 4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
 5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
+6. [International Symposium on Mixed and Augmented Reality](http://ismar20.org/call-for-papers/)
+7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
 
 ## Computer Graphics Journals
 1. [ACM Transactions on Graphics (TOG)](http://www.acm.org/tog/)
@@ -31,7 +62,7 @@ image: /Images/prepage.jpg
 1. [IEEE Transactions on Visualization and Computer Graphics (TVCG)](http://www.computer.org/tvcg/)
 1. [IEEE Computer Graphics and Applications (CG&A)](http://www.computer.org/cga/)
 1. [Computers & Graphics](http://www.elsevier.com/locate/cag)
-1. [The Visual Computer](http://link.springer.de/link/service/journals/00371/index.htm)
+1. [The Visual Computer](https://www.springer.com/journal/371)
 1. [Journal of graphics tools](http://jgt.akpeters.com/)
 1. [Graphical Models (formerly Graphical Models and Image Processing)](http://www.elsevier.com/locate/gmod)
 1. [ACM Computers in Entertainment](https://cie.acm.org/)
@@ -52,12 +83,6 @@ image: /Images/prepage.jpg
 1. [Computer Aided Geometric Design](http://ees.elsevier.com/cagd/)
 1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
 1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
-
-## Applications
-1. [BEST MASTER’S IN GAME DESIGN DEGREES](https://www.collegechoice.net/rankings/best-masters-in-game-design-degrees/)
-1. [科学基金网络信息系统(ISIS)，科技管理信息系统](https://isisn.nsfc.gov.cn/egrantweb/)
-2. [国家留学基金管理委员会](http://www.csc.edu.cn/)
-1. [教育部人文社会科学研究管理平台](https://xm.sinoss.net)
 
 ## Researches
 1. [Conferences and Meetings on Multimedia, Computer Graphics and Visualization](http://www.conference-service.com/conferences/multimedia.html)
@@ -168,6 +193,12 @@ image: /Images/prepage.jpg
 ## VR
 1. [Developer Center Oculus](https://developer.oculus.com/)
 2. [Leap Motion Developers](https://developer.leapmotion.com/)
+
+## Applications
+1. [BEST MASTER’S IN GAME DESIGN DEGREES](https://www.collegechoice.net/rankings/best-masters-in-game-design-degrees/)
+1. [科学基金网络信息系统(ISIS)，科技管理信息系统](https://isisn.nsfc.gov.cn/egrantweb/)
+2. [国家留学基金管理委员会](http://www.csc.edu.cn/)
+1. [教育部人文社会科学研究管理平台](https://xm.sinoss.net)
 
 ## Shopping
 1. [京东](http://www.jd.com/)
