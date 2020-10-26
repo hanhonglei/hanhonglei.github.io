@@ -47,6 +47,7 @@ image: /Images/prepage.jpg
 2. [Sense and perception](https://mp.weixin.qq.com/s/1h_Vc_Q1gyjzBkIUFdCtyA)
 3. [8 cutting edge techniques in VR 2016](https://mp.weixin.qq.com/s/hI5xEmJz1MLINogc0MH7Ow)
 3. [Machinations: Design any gameplay system, using a Turing-complete language in an interactive diagram](https://machinations.io/)
+2. [Tips on introduction](https://mp.weixin.qq.com/s/PyRQhRyYy5UAl4wXnQ9NQg)
 
 ## Game Journals
 1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E)
