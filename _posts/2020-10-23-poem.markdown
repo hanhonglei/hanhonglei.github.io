@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 文昌海岸闲住数景
+title: 午后校园秋景
 date: 2020-10-23
 categories: poem autumn campus
 ---
