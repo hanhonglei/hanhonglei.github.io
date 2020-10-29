@@ -29,14 +29,14 @@ Letting users feel the sense of reality is an important goal in game developing.
 ## 4. [Basics of Game Programming 游戏开发程序设计基础](https://github.com/hanhonglei/Course_BasicGameProgramming)
 ![]({{site.url}}/Images/BGP.jpg){:width="300px"}
 
-请移步[中国大学慕课](https://www.icourse163.org/)搜索同名课程，参加该课程的慕课学习。
+请移步[中国大学慕课](https://www.icourse163.org/course/CUC-1450328379)搜索同名课程，参加该课程的慕课学习。
 
 该课程主要任务是游戏设计系学生进行游戏编程的入门课程学习，使学生掌握游戏开发基本知识、C语言程序设计的语法规则及相关的基本概念。主要内容侧重C语言基础知识，包括程序设计思路、C语言语法基础、Visual C++工具学习使用等，结合上机实践使学生学会程序设计的基本方法和技巧，为进一步培养和提高学生综合编程的能力打好基础。
 
 ## 5. [Principle and Application of Game Engine 游戏引擎原理及应用](https://github.com/hanhonglei/Course_GameEngine)
 ![]({{site.url}}/Images/unity-logo.png){:width="300px"}
 
-请移步[中国大学慕课](https://www.icourse163.org/)搜索同名课程，参加该课程的慕课学习。
+请移步[中国大学慕课](https://www.icourse163.org/course/CUC-1450317378)搜索同名课程，参加该课程的慕课学习。
 
 This course is mainly talking about what the function of game engine as the core of a game, the developing tendency of it, the contents of it, the implementation of it, etc. We will focus on the implementation theory of game engine, also, we will compare the classic engines with their advantages and weaknesses, so that the students will understand game engine more deeply. This course will lay the foundation for students to develop a game in game engine later.
 

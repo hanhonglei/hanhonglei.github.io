@@ -45,7 +45,7 @@ Digital Game Design, Visual Reality, Computer Graphics
 
 ## 韩红雷
 
-博士，副教授，男，1980年1月生人，籍贯山西太原，中国传媒大学教学督导专家，获[中国传媒大学](http://www.cuc.edu.cn/)“教学名师”称号。Unity全球认证讲师（Unity Certified Instructor），[Unity全球教育咨询委员会成员](https://unity.com/education/advisory-board#honglei-han)。
+博士，副教授，男，1980年1月生人，籍贯山西太原，中国传媒大学教学督导专家，获[中国传媒大学](http://www.cuc.edu.cn/)[“教学名师”称号](http://www.cuc.edu.cn/2020/1021/c2126a174233/page.htm)。Unity全球认证讲师（Unity Certified Instructor），[Unity全球教育咨询委员会成员](https://unity.com/education/advisory-board#honglei-han)。
 
 2003年毕业于[北京物资学院](http://www.bwu.edu.cn/)，获管理学学士学位。2006年毕业于[中国传媒大学](http://www.cuc.edu.cn/)，获工学硕士学位，专业为计算机应用技术。2015年1月毕业于[中国科学院软件研究所](http://www.is.cas.cn)，获博士学位，专业为计算机应用技术（计算机图形学方向）。2016年1月至2017年7月获得[国家留学基金委](http://www.csc.edu.cn)的“艺术类特殊人才项目”资助，前往University of North Carolina at Charlotte(美国[北卡罗来纳大学夏洛特分校](http://www.uncc.edu))进行访问学者合作研究和教学。
 
