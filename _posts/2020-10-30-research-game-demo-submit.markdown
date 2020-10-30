@@ -2,7 +2,7 @@
 layout: post
 title:  "How to submit a game demo in the academic conference"
 date:   2020-10-30
-categories: article paper research saliency vr review
+categories: article paper poster demo
 ---
 # How to submit a game demo in the academic conference
 
