@@ -38,7 +38,7 @@ Letting users feel the sense of reality is an important goal in game developing.
 
 请移步[中国大学慕课](https://www.icourse163.org/course/CUC-1450317378)搜索同名课程，参加该课程的慕课学习。
 
-该课程课件荣获[2020年北京高校“优质本科教材课件”](http://jw.beijing.gov.cn/xxgk/zxxxgk/202006/t20200615_1925227.html)。
+该课程课件荣获[2020年北京高校“优质本科教材课件”](http://jw.beijing.gov.cn/xxgk/zxxxgk/202010/t20201028_2123497.html)。
 
 This course is mainly talking about what the function of game engine as the core of a game, the developing tendency of it, the contents of it, the implementation of it, etc. We will focus on the implementation theory of game engine, also, we will compare the classic engines with their advantages and weaknesses, so that the students will understand game engine more deeply. This course will lay the foundation for students to develop a game in game engine later.
 
