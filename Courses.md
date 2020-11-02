@@ -38,11 +38,13 @@ Letting users feel the sense of reality is an important goal in game developing.
 
 请移步[中国大学慕课](https://www.icourse163.org/course/CUC-1450317378)搜索同名课程，参加该课程的慕课学习。
 
+该课程课件荣获[2020年北京高校“优质本科教材课件”](http://jw.beijing.gov.cn/xxgk/zxxxgk/202006/t20200615_1925227.html)。
+
 This course is mainly talking about what the function of game engine as the core of a game, the developing tendency of it, the contents of it, the implementation of it, etc. We will focus on the implementation theory of game engine, also, we will compare the classic engines with their advantages and weaknesses, so that the students will understand game engine more deeply. This course will lay the foundation for students to develop a game in game engine later.
 
 A commercial game engine will be introduced in the course. Students will study this game engine to develop games, and review speculative knowledge.
 
-游戏引擎原理及应用主要介绍作为游戏的核心部分游戏引擎的作用是什么，游戏引擎如何发展及其发展趋向，游戏引擎的实现¬¬¬原理。着重讲述引擎所涉及的理论知识，同时对国内外典型引擎的优缺点进行比较分析，让学生全面了解游戏引擎，为下一步利用游戏引擎开发游戏或开发游戏引擎奠定基础。
+游戏引擎原理及应用主要介绍作为游戏的核心部分游戏引擎的作用是什么，游戏引擎如何发展及其发展趋向，游戏引擎的实现原理。着重讲述引擎所涉及的理论知识，同时对国内外典型引擎的优缺点进行比较分析，让学生全面了解游戏引擎，为下一步利用游戏引擎开发游戏或开发游戏引擎奠定基础。
 
 在该课程中会结合一款典型的游戏引擎作为教学工具，学生使用该引擎来巩固理论知识，并能使用其进行游戏创作。
 
