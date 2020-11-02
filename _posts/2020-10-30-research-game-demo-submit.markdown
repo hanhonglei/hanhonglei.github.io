@@ -19,7 +19,7 @@ categories: article paper poster demo
 3. [CHI PLAY](https://chiplay.acm.org/2020/)，2021年的未出任何信息，往年举办日期是12月，截稿4月份,除了普通论文之外，包括Interactivity（类似于poster和demo）和Work in Progress（正在进行的工作）环节
 4. [I3D：ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games Online](http://i3dsymposium.github.io/2021/), 举办日期：20-22 April 2021，Paper submission deadline:December 22, 2020，包括普通paper和期刊paper两种（纯学术）。
 
-接下来，以发表于2019年Foundations of Digital Games（上面第二个会议）上的一篇论文为例，来简单介绍一下这种类型论文的写作。改论文隶属于论文集中的“posters and demos”部分。
+接下来，以发表于2019年Foundations of Digital Games（上面第二个会议）上的一篇论文为例，来简单介绍一下这种类型论文的写作。该论文隶属于论文集中的“posters and demos”部分。
 
 该论文题为[Rhythm dungeon: a blockchain-based music roguelike game](https://dl.acm.org/doi/10.1145/3337722.3341836),正如其名字所示，该论文介绍了一款基于区块链的音乐节奏地牢游戏。游戏中，需要玩家通过输入特定顺序的音乐节奏来探索roguelike地牢。该游戏的主要创新点是引入了区块链技术，这样通过智能合约，游戏中的敌人是其他游戏中生成的，共享同样的区块链。此外，玩家还可以在游戏结束的时候上传他们的角色，这些角色可以在其他游戏中出现并产生影响。该游戏的设计和实践是要说明，利用区块链技术提供的大量玩家间的异步交互，在游戏中得到去中心化的游戏体验的可能性。
 
