@@ -57,19 +57,19 @@ image: /Images/prepage.jpg
 1. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)
 1. [Simulation & Gaming](https://journals.sagepub.com/home/sag)
 1. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)
-1. [Sensors SCI indexed](https://www.mdpi.com/journal/sensors) The leading international peer-reviewed open access journal on the science and technology of sensors and biosensors
+1. [Sensors](https://www.mdpi.com/journal/sensors) The leading international peer-reviewed open access journal on the science and technology of sensors and biosensors, SCI indexed
 1. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
 
 ## Game Academic conferences
-1. [IEEE CONFERENCE ON GAMES](http://ieee-cog.org/2020/cfp)
-1. [Foundations of Digital Games](http://fdg2019.org/) Foundations of Digital Games is a major international "big tent" academic conference dedicated to exploring the latest research in all aspects of digital games. FDG is usually held in Europe or North America once a year. 
-1. [CHI PLAY: Student game design competition](http://chiplay.acm.org/2017/authors/student-game-design-competition/)
+1. [IEEE CONFERENCE ON GAMES](http://ieee-cog.org/2020/cfp) All accepted papers will be published in the conference proceedings and on IEEE Xplore. Principle authors to submit an extended version of their papers to the [IEEE Transactions on Games (ToG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673).
+1. [Foundations of Digital Games](http://fdg2021.org/) Proceedings published in the ACM Digital Library.
+1. [CHI PLAY](https://chiplay.acm.org/2020/) All accepted submissions will be distributed in the Chi PLAY Conference Proceedings available in the ACM Digital Library.
+3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2021/cfp.html)  There are “Journal Paper” and “Conference Paper.” The ACM will publish journal papers in a special issue of the [Proceedings of the ACM in Computer Graphics and Interactive Techniques (PACM CGIT)](https://dl.acm.org/journal/pacmcgit), whereas conference papers will appear in the I3D proceedings. Both journal and conference papers will be archived in the ACM Digital Library.
+7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
 2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
-3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2017/index.html)
 4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
 5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
 6. [International Symposium on Mixed and Augmented Reality](http://ismar20.org/call-for-papers/)
-7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
 
 ## Computer Graphics Journals
 1. [ACM Transactions on Graphics (TOG)](http://www.acm.org/tog/)
