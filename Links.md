@@ -4,6 +4,35 @@ title: Links 资源
 permalink: /links/
 image: /Images/prepage.jpg
 ---
+## Game Journals
+1. [IEEE Transactions on Games](http://transactions.games/)(SCI-E) Once called IEEE Transactions on Computational Intelligence and AI in Games
+1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E) 审稿周期约为四五个月到一年不等
+1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)(SSCI) 审稿周期一两个月到四个月到九个月不等，审稿较快。
+1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)(SCI-E & SSCI) 审稿周期约为十个月
+1. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)(SCI-E)
+1. [Simulation & Gaming](https://journals.sagepub.com/home/sag)(Emerging Sources Citation Index)
+1. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)(Emerging Sources Citation Index)
+1. [Games and Culture](https://journals.sagepub.com/home/gac)(SSCI) 
+1. [JMIR Serious Games](https://games.jmir.org/)(SCI-E)
+1. [Games for Health Journal](https://home.liebertpub.com/publications/games-for-health-journal/588/overview)(SSCI)
+1. [Sensors](https://www.mdpi.com/journal/sensors) (SCI-E)The leading international peer-reviewed open access journal on the science and technology of sensors and biosensors
+1. [International Journal of Technology and Human Interaction (IJTHI)](https://www.igi-global.com/journal/international-journal-technology-human-interaction/1084)( Emerging Sources Citation Index)
+1. [International Journal of Game-Based Learning (IJGBL)](https://www.igi-global.com/journal/international-journal-game-based-learning/41019)(Emerging Sources Citation Index)
+1. [International Journal of Serious Games](https://journal.seriousgamessociety.org/index.php/IJSG)(Emerging Sources Citation Index)
+1. [International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)](https://www.igi-global.com/journal/international-journal-gaming-computer-mediated/1125)(Emerging Sources Citation Index)
+1. [Journal of Gaming & Virtual Worlds](https://www.intellectbooks.com/journal-of-gaming-virtual-worlds)(Emerging Sources Citation Index)
+1. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
+
+## Game Academic conferences
+1. [IEEE CONFERENCE ON GAMES](http://ieee-cog.org/2020/cfp) All accepted papers will be published in the conference proceedings and on IEEE Xplore. Principle authors to submit an extended version of their papers to the [IEEE Transactions on Games (ToG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673).
+1. [Foundations of Digital Games](http://fdg2021.org/) Proceedings published in the ACM Digital Library.
+1. [CHI PLAY](https://chiplay.acm.org/2020/) All accepted submissions will be distributed in the Chi PLAY Conference Proceedings available in the ACM Digital Library.
+3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2021/cfp.html)  There are “Journal Paper” and “Conference Paper.” The ACM will publish journal papers in a special issue of the [Proceedings of the ACM in Computer Graphics and Interactive Techniques (PACM CGIT)](https://dl.acm.org/journal/pacmcgit), whereas conference papers will appear in the I3D proceedings. Both journal and conference papers will be archived in the ACM Digital Library.
+7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
+2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
+4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
+5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
+6. [International Symposium on Mixed and Augmented Reality](http://ismar20.org/call-for-papers/)
 
 ## Resources
 1. [How an independent researcher wrote a SIGGRAPH paper](http://www.mattkeeter.com/projects/siggraph/)
@@ -48,28 +77,6 @@ image: /Images/prepage.jpg
 3. [8 cutting edge techniques in VR 2016](https://mp.weixin.qq.com/s/hI5xEmJz1MLINogc0MH7Ow)
 3. [Machinations: Design any gameplay system, using a Turing-complete language in an interactive diagram](https://machinations.io/)
 2. [Tips on introduction](https://mp.weixin.qq.com/s/PyRQhRyYy5UAl4wXnQ9NQg)
-
-## Game Journals
-1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E)
-1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)(SCI)
-1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)(SCI)
-1. [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
-1. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)
-1. [Simulation & Gaming](https://journals.sagepub.com/home/sag)
-1. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)
-1. [Sensors](https://www.mdpi.com/journal/sensors) The leading international peer-reviewed open access journal on the science and technology of sensors and biosensors, SCI indexed
-1. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
-
-## Game Academic conferences
-1. [IEEE CONFERENCE ON GAMES](http://ieee-cog.org/2020/cfp) All accepted papers will be published in the conference proceedings and on IEEE Xplore. Principle authors to submit an extended version of their papers to the [IEEE Transactions on Games (ToG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673).
-1. [Foundations of Digital Games](http://fdg2021.org/) Proceedings published in the ACM Digital Library.
-1. [CHI PLAY](https://chiplay.acm.org/2020/) All accepted submissions will be distributed in the Chi PLAY Conference Proceedings available in the ACM Digital Library.
-3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2021/cfp.html)  There are “Journal Paper” and “Conference Paper.” The ACM will publish journal papers in a special issue of the [Proceedings of the ACM in Computer Graphics and Interactive Techniques (PACM CGIT)](https://dl.acm.org/journal/pacmcgit), whereas conference papers will appear in the I3D proceedings. Both journal and conference papers will be archived in the ACM Digital Library.
-7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
-2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
-4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
-5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
-6. [International Symposium on Mixed and Augmented Reality](http://ismar20.org/call-for-papers/)
 
 ## Computer Graphics Journals
 1. [ACM Transactions on Graphics (TOG)](http://www.acm.org/tog/)
