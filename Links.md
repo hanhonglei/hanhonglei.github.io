@@ -24,15 +24,18 @@ image: /Images/prepage.jpg
 1. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
 
 ## Game Academic conferences
-1. [IEEE CONFERENCE ON GAMES](http://ieee-cog.org/2020/cfp) All accepted papers will be published in the conference proceedings and on IEEE Xplore. Principle authors to submit an extended version of their papers to the [IEEE Transactions on Games (ToG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673).
+1. [IEEE CONFERENCE ON GAMES](https://ieee-cog.org/2021/) All accepted papers will be published in the conference proceedings and on IEEE Xplore. Principle authors to submit an extended version of their papers to the [IEEE Transactions on Games (ToG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673).
 1. [Foundations of Digital Games](http://fdg2021.org/) Proceedings published in the ACM Digital Library.
-1. [CHI PLAY](https://chiplay.acm.org/2020/) All accepted submissions will be distributed in the Chi PLAY Conference Proceedings available in the ACM Digital Library.
+1. [CHI PLAY](https://chiplay.acm.org/2021/) As of CHI PLAY 2021, we will be introducing a revise and resubmit phase to the review process, and moving our publications to the journal PACMHCI(EI indexing), the home journal of other SIGCHI communities like CSCW, EICS, ISS, and Group. 
 3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2021/cfp.html)  There are “Journal Paper” and “Conference Paper.” The ACM will publish journal papers in a special issue of the [Proceedings of the ACM in Computer Graphics and Interactive Techniques (PACM CGIT)](https://dl.acm.org/journal/pacmcgit), whereas conference papers will appear in the I3D proceedings. Both journal and conference papers will be archived in the ACM Digital Library.
 7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
 2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
 4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
 5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
 6. [International Symposium on Mixed and Augmented Reality](http://ismar20.org/call-for-papers/)
+
+## Journals indexing search
+1. [Web of Science](https://mjl.clarivate.com/home)
 
 ## Resources
 1. [How an independent researcher wrote a SIGGRAPH paper](http://www.mattkeeter.com/projects/siggraph/)
