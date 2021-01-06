@@ -23,21 +23,24 @@ image: /Images/prepage.jpg
 1. [Journal of Gaming & Virtual Worlds](https://www.intellectbooks.com/journal-of-gaming-virtual-worlds)(Emerging Sources Citation Index)
 1. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
 
-## Game Academic conferences
+## Game & Computer Graphics Academic conferences
 1. [IEEE CONFERENCE ON GAMES](https://ieee-cog.org/2021/) All accepted papers will be published in the conference proceedings and on IEEE Xplore. Principle authors to submit an extended version of their papers to the [IEEE Transactions on Games (ToG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673).
 1. [Foundations of Digital Games](http://fdg2021.org/) Proceedings published in the ACM Digital Library.
 1. [CHI PLAY](https://chiplay.acm.org/2021/) As of CHI PLAY 2021, we will be introducing a revise and resubmit phase to the review process, and moving our publications to the journal PACMHCI(EI indexing), the home journal of other SIGCHI communities like CSCW, EICS, ISS, and Group. 
 3. [I3D: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/2021/cfp.html)  There are “Journal Paper” and “Conference Paper.” The ACM will publish journal papers in a special issue of the [Proceedings of the ACM in Computer Graphics and Interactive Techniques (PACM CGIT)](https://dl.acm.org/journal/pacmcgit), whereas conference papers will appear in the I3D proceedings. Both journal and conference papers will be archived in the ACM Digital Library.
-7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
+2. [CASA: omputer Animation & Social Agents](http://casa2021.ca/) The papers accepted with minor revisions will be in the special issue of Computer Animation and Virtual Worlds (CAVW) published by Wiley.
 2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
 4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
 5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
 6. [International Symposium on Mixed and Augmented Reality](http://ismar20.org/call-for-papers/)
+1. [CAD/Graphics](http://cadcg2021.icrp.xjtu.edu.cn/106149063/index?pageId=106149120) All accepted full papers will be published in journals (after a revision round), including Computers & Graphics and Graphical Models(Elsevier).
+7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
 
 ## Journals indexing search
 1. [Web of Science](https://mjl.clarivate.com/home)
 
 ## Resources
+1. [Graphics Studies Compilation](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/) This is a collection of frame breakdowns gathered online, all written by volunteers and enthusiasts who decided to reverse-engineer some games and document their findings.
 1. [How an independent researcher wrote a SIGGRAPH paper](http://www.mattkeeter.com/projects/siggraph/)
 2. [The usual advice regarding rebuttals](https://people.csail.mit.edu/fredo/rebuttal_advice.txt)
 2. [How to do rebuttals](https://blog.liyiwei.org/?p=284)

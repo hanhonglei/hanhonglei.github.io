@@ -11,7 +11,10 @@ image: /Images/prepage.jpg
 3.	廖祥忠，**韩红雷**，金炜，《新媒体艺术与创新教育》[C]，[中国传媒大学出版社，ISBN：978-7-81127-308-3，2008年10月.](https://baike.baidu.com/item/%E6%96%B0%E5%AA%92%E4%BD%93%E8%89%BA%E6%9C%AF%E4%B8%8E%E5%88%9B%E6%96%B0%E6%95%99%E8%82%B2/6231088)
 
 ## Papers 论文:
-1. Hongli Liu, **Honglei Han**. 2020. Reconstructing Monte Carlo Errors as aBlue-noise in Screen Space[A]. [In Pacific Graphics Short Papers, Posters, and Work-in-Progress Papers, Sung-hee Lee, Stefanie Zollmann, Makoto Okabe, and BurkhardWuensche (Eds.). The Eurographics Association.](https://doi.org/10.2312/pg.20201230)
+1. Hongli Liu, **Honglei Han**, Min Jiang. Rank-1 Lattices for Efficient Path Integral Estimation[J], to be appear. 
+1. 刘泓立, 韩红雷. 一种将渲染误差高效转化为蓝噪声的过滤方法[J]. 太赫兹科学与电子信息学报.已录用.
+1. Cheng, D., **Han, H.**, Fei, G., 2020. Automatic Generation of Game Levels Based on Controllable Wave Function Collapse Algorithm[A], in: Nunes, N.J., Ma, L., Wang, M., Correia, N., Pan, Z. (Eds.), [Entertainment Computing – ICEC 2020. Lecture Notes in Computer Science, vol 12523. Springer International Publishing, Cham, pp. 37–50.](https://doi.org/10.1007/978-3-030-65736-9_3)
+1. Hongli Liu, **Honglei Han**. 2020. Reconstructing Monte Carlo Errors as a Blue-noise in Screen Space[A]. [In Pacific Graphics Short Papers, Posters, and Work-in-Progress Papers, Sung-hee Lee, Stefanie Zollmann, Makoto Okabe, and BurkhardWuensche (Eds.). The Eurographics Association.](https://doi.org/10.2312/pg.20201230)
 1. Hongli LIU, **Honglei HAN**, Guangzheng FEI. Two-phase real-time rendering method for realistic water refraction[J]. [Virtual Reality & Intelligent Hardware, 2020, 2(2): 132-141.](https://doi.org/10.1016/j.vrih.2019.12.005)
 1.	**Honglei Han**, Aidong Lu, Chanchan Xu, and Unique Wells. Object-based Visual Attention Quantification using Head Orientation in VR Applications[J]. [International Journal of Performability Engineering, 2019, 15(3): 732-742.](http://doi.org/10.23940/ijpe.19.03.p2.732742)
 2.	Chanchan Xu, Guangzheng Fei, and **Honglei Han**. 2018. CamBridge: a bridge of camera aesthetic between virtual environment designers and players[A]. [In Proceedings of the 16th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '18). ACM, New York, NY, USA, Article 16, 8 pages.](https://doi.org/10.1145/3284398.3284423)
