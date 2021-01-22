@@ -12,7 +12,7 @@ image: /Images/prepage.jpg
 
 ## Papers 论文:
 1. Hongli Liu, **Honglei Han**, Min Jiang. Rank-1 Lattices for Efficient Path Integral Estimation[J], to be appear. 
-1. 刘泓立, 韩红雷. 一种将渲染误差高效转化为蓝噪声的过滤方法[J]. 太赫兹科学与电子信息学报.已录用.
+1. 刘泓立, 韩红雷. 一种将渲染误差高效转化为蓝噪声的过滤方法[J]. [太赫兹科学与电子信息学报.已录用.](http://www.iaeej.com/xxydzgc/ch/reader/view_abstract.aspx?flag=2&file_no=202009100000003&journal_id=xxydzgc)
 1. Cheng, D., **Han, H.**, Fei, G., 2020. Automatic Generation of Game Levels Based on Controllable Wave Function Collapse Algorithm[A], in: Nunes, N.J., Ma, L., Wang, M., Correia, N., Pan, Z. (Eds.), [Entertainment Computing – ICEC 2020. Lecture Notes in Computer Science, vol 12523. Springer International Publishing, Cham, pp. 37–50.](https://doi.org/10.1007/978-3-030-65736-9_3)	[PDF]({{site.url}}/Resources/2020 Automatic Generation of Game Levels Based on Controllable Wave Function Collapse Algorithm.pdf)
 1. Hongli Liu, **Honglei Han**. 2020. Reconstructing Monte Carlo Errors as a Blue-noise in Screen Space[A]. [In Pacific Graphics Short Papers, Posters, and Work-in-Progress Papers, Sung-hee Lee, Stefanie Zollmann, Makoto Okabe, and BurkhardWuensche (Eds.). The Eurographics Association.](https://doi.org/10.2312/pg.20201230)	[PDF]({{site.url}}/Resources/Reconstructing Monte Carlo Errors as a Blue-noise in Screen Space.pdf)
 1. Hongli LIU, **Honglei HAN**, Guangzheng FEI. Two-phase real-time rendering method for realistic water refraction[J]. [Virtual Reality & Intelligent Hardware, 2020, 2(2): 132-141.](https://doi.org/10.1016/j.vrih.2019.12.005)	[PDF]({{site.url}}/Resources/author copy-2020 VRIH-Two-phase real-time rendering method for realistic water refraction.pdf)
