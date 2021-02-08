@@ -2,7 +2,6 @@
 layout: page
 title: Courses 课程
 permalink: /courses/
-image: /Images/prepage.jpg
 ---
 ## 1. [Unity游戏引擎视频教程系列](https://www.bilibili.com/video/BV1H5411s7W8/)
 ![]({{site.url}}/Images/121.jpg){:width="300px"}

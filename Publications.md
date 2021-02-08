@@ -2,7 +2,6 @@
 layout: page
 title: Publications 成果
 permalink: /publications/
-image: /Images/prepage.jpg
 ---
 ## Books 书:
 

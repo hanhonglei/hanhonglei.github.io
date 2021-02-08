@@ -2,7 +2,6 @@
 layout: page
 title: Links 资源
 permalink: /links/
-image: /Images/prepage.jpg
 ---
 ## Game Journals
 1. [IEEE Transactions on Games](http://transactions.games/)(SCI-E) Once called IEEE Transactions on Computational Intelligence and AI in Games

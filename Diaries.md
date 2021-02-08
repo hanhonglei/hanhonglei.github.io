@@ -2,7 +2,6 @@
 layout: page
 title: Diaries 日志
 permalink: /diaries/
-image: /Images/prepage.jpg
 ---
 <ul>
   {% for post in site.posts %}
