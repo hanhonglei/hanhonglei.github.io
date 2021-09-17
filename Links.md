@@ -30,7 +30,7 @@ permalink: /links/
 2. [CASA: omputer Animation & Social Agents](http://casa2021.ca/) The papers accepted with minor revisions will be in the special issue of Computer Animation and Virtual Worlds (CAVW) published by Wiley.
 2. [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/vrst2017/)
 4. [CIG: IEEE Conference on Computational Intelligence and Games](http://www.ieee-cig.org/)
-5. [The International Conference on E-learning and Games (Edutainment)](http://edutainment2017.org/index)
+5. [The International Conference on E-learning and Games (Edutainment)](http://www.icelg.org/edutainment2021/index.html)
 6. [International Symposium on Mixed and Augmented Reality](http://ismar20.org/call-for-papers/)
 1. [CAD/Graphics](http://cadcg2021.icrp.xjtu.edu.cn/106149063/index?pageId=106149120) All accepted full papers will be published in journals (after a revision round), including Computers & Graphics and Graphical Models(Elsevier).
 7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
@@ -39,6 +39,7 @@ permalink: /links/
 1. [Web of Science](https://mjl.clarivate.com/home)
 
 ## Resources
+1. [GAMES: Graphics And Mixed Environment Seminar](http://games-cn.org/) 计算机图形学与混合现实研讨会
 1. [Graphics Studies Compilation](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/) This is a collection of frame breakdowns gathered online, all written by volunteers and enthusiasts who decided to reverse-engineer some games and document their findings.
 1. [How an independent researcher wrote a SIGGRAPH paper](http://www.mattkeeter.com/projects/siggraph/)
 2. [The usual advice regarding rebuttals](https://people.csail.mit.edu/fredo/rebuttal_advice.txt)
