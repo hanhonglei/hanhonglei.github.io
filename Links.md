@@ -86,15 +86,21 @@ permalink: /links/
 
 ## Computer Graphics Journals
 1. [ACM Transactions on Graphics (TOG)](http://www.acm.org/tog/)
-1. [Computer Graphics Forum (CGF)](http://www.blackwellpublishing.com/journal.asp?ref=0167-7055&site=1)
 1. [IEEE Transactions on Visualization and Computer Graphics (TVCG)](http://www.computer.org/tvcg/)
-1. [IEEE Computer Graphics and Applications (CG&A)](http://www.computer.org/cga/)
+1. [Virtual Reality](https://www.springer.com/journal/10055)
+1. [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design)
 1. [Computers & Graphics](http://www.elsevier.com/locate/cag)
+1. [Computational Visual Media](https://www.springer.com/journal/41095)
+1. [Computer Graphics Forum (CGF)](http://www.blackwellpublishing.com/journal.asp?ref=0167-7055&site=1)
 1. [The Visual Computer](https://www.springer.com/journal/371)
-1. [Journal of graphics tools](http://jgt.akpeters.com/)
+1. [Computer Aided Geometric Design](http://ees.elsevier.com/cagd/)
+1. [IEEE Computer Graphics and Applications (CG&A)](http://www.computer.org/cga/)
+4. [Information Visualization](https://journals.sagepub.com/home/ivi)
 1. [Graphical Models (formerly Graphical Models and Image Processing)](http://www.elsevier.com/locate/gmod)
-1. [ACM Computers in Entertainment](https://cie.acm.org/)
 1. [Journal of Computer Animation and Virtual Worlds (was Journal of Visualization and Computer Animation prior to 2004)](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-CAV.html)
+4. [Visual Informatics](https://www.sciencedirect.com/journal/visual-informatics)
+1. [Journal of graphics tools](http://jgt.akpeters.com/)
+1. [ACM Computers in Entertainment](https://cie.acm.org/)
 1. [Foundations and Trends in Computer Graphics and Vision](http://www.nowpublishers.com/cgv)
 1. [International Journal Machine Graphics & Vision (MGV)](http://mgv.wzim.sggw.pl/)
 1. [International Journal of Image and Graphics (IJIG)](http://www.worldscinet.com/ijig/)
@@ -108,7 +114,6 @@ permalink: /links/
 1. [CG Educational Materials Source (CGEMS)](http://cgems.inesc-id.pt/)
 1. [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://www.computer.org/pami/)
 1. [International Journal on Computer Vision](http://www.kluweronline.com/issn/0920-5691/current)
-1. [Computer Aided Geometric Design](http://ees.elsevier.com/cagd/)
 1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
 1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
 
@@ -244,5 +249,3 @@ permalink: /links/
   ga('send', 'pageview');
 
 </script>
-
-
