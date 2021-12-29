@@ -4,17 +4,17 @@ title: Links 资源
 permalink: /links/
 ---
 ## Game Journals
-1. [IEEE Transactions on Games](http://transactions.games/)(SCI-E) Once called IEEE Transactions on Computational Intelligence and AI in Games
-1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E) 审稿周期约为四五个月到一年不等
-1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)(SSCI) 审稿周期一两个月到四个月到九个月不等，审稿较快。
-1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)(SCI-E & SSCI) 审稿周期约为十个月
-1. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)(SCI-E)
+1. [IEEE Transactions on Games](http://transactions.games/)(SCI-E) Once called IEEE Transactions on Computational Intelligence and AI in Games，四区
+1. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E)四区
+1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)(SSCI)一区
+1. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)(SCI-E & SSCI)二区
+1. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)(SCI-E)二区
 1. [Simulation & Gaming](https://journals.sagepub.com/home/sag)(Emerging Sources Citation Index)
 1. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)(Emerging Sources Citation Index)
-1. [Games and Culture](https://journals.sagepub.com/home/gac)(SSCI) 
-1. [JMIR Serious Games](https://games.jmir.org/)(SCI-E)
-1. [Games for Health Journal](https://home.liebertpub.com/publications/games-for-health-journal/588/overview)(SSCI)
-1. [Sensors](https://www.mdpi.com/journal/sensors) (SCI-E)The leading international peer-reviewed open access journal on the science and technology of sensors and biosensors
+1. [Games and Culture](https://journals.sagepub.com/home/gac)(SSCI) 四区
+1. [JMIR Serious Games](https://games.jmir.org/)(SCI-E)三区
+1. [Games for Health Journal](https://home.liebertpub.com/publications/games-for-health-journal/588/overview)(SSCI)二区
+1. [Sensors](https://www.mdpi.com/journal/sensors) (SCI-E)三区
 1. [International Journal of Technology and Human Interaction (IJTHI)](https://www.igi-global.com/journal/international-journal-technology-human-interaction/1084)( Emerging Sources Citation Index)
 1. [International Journal of Game-Based Learning (IJGBL)](https://www.igi-global.com/journal/international-journal-game-based-learning/41019)(Emerging Sources Citation Index)
 1. [International Journal of Serious Games](https://journal.seriousgamessociety.org/index.php/IJSG)(Emerging Sources Citation Index)
