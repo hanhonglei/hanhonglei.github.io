@@ -35,6 +35,46 @@ permalink: /links/
 1. [CAD/Graphics](http://cadcg2021.icrp.xjtu.edu.cn/106149063/index?pageId=106149120) All accepted full papers will be published in journals (after a revision round), including Computers & Graphics and Graphical Models(Elsevier).
 7. [Annual computer graphics related conferences](http://www.cjig.cn/jig/ch/reader/view_news.aspx?id=20151215111701001)
 
+## Computer Graphics Journals
+1. [ACM Transactions on Graphics (TOG)](http://www.acm.org/tog/)
+1. [IEEE Transactions on Visualization and Computer Graphics (TVCG)](http://www.computer.org/tvcg/)
+1. [Virtual Reality](https://www.springer.com/journal/10055)
+1. [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design)
+1. [Computers & Graphics](http://www.elsevier.com/locate/cag)
+1. [Computational Visual Media](https://www.springer.com/journal/41095)
+1. [Computer Graphics Forum (CGF)](http://www.blackwellpublishing.com/journal.asp?ref=0167-7055&site=1)
+1. [The Visual Computer](https://www.springer.com/journal/371)
+1. [Computer Aided Geometric Design](http://ees.elsevier.com/cagd/)
+1. [IEEE Computer Graphics and Applications (CG&A)](http://www.computer.org/cga/)
+4. [Information Visualization](https://journals.sagepub.com/home/ivi)
+1. [Graphical Models (formerly Graphical Models and Image Processing)](http://www.elsevier.com/locate/gmod)
+1. [Journal of Computer Animation and Virtual Worlds (was Journal of Visualization and Computer Animation prior to 2004)](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-CAV.html)
+4. [Visual Informatics](https://www.sciencedirect.com/journal/visual-informatics)
+1. [Journal of graphics tools](http://jgt.akpeters.com/)
+1. [ACM Computers in Entertainment](https://cie.acm.org/)
+1. [Foundations and Trends in Computer Graphics and Vision](http://www.nowpublishers.com/cgv)
+1. [International Journal Machine Graphics & Vision (MGV)](http://mgv.wzim.sggw.pl/)
+1. [International Journal of Image and Graphics (IJIG)](http://www.worldscinet.com/ijig/)
+1. [International Journal of Computer Games Technology](http://www.hindawi.com/journals/ijcgt/)
+1. [Multimedia Technology](http://www.seipub.org/mt/)
+1. [Entertainment Computing](http://www.elsevier.com/wps/find/journaldescription.cws_home/717010/description#description)
+1. [International Journal of Multimedia](http://sciforschenonline.org/journals/multimedia/)
+1. [GSTF Journal on Computer Games and Multimedia](http://www.globalstf.org/publications/jcgm/index.php)
+1. [World Journal of Computer Application and Technology](http://www.hrpub.org/journals/jour_info.php?id=37)
+1. [Computer Science and Information Technology](http://www.hrpub.org/journals/jour_info.php?id=35)
+1. [CG Educational Materials Source (CGEMS)](http://cgems.inesc-id.pt/)
+1. [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://www.computer.org/pami/)
+1. [International Journal on Computer Vision](http://www.kluweronline.com/issn/0920-5691/current)
+1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
+1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
+
+##Computer Vision Conferences
+[International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home)
+[The Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/)
+[Computer Vision and Pattern Recognition (CVPR)](https://cvpr2021.thecvf.com/)
+[International Conference on Machine Learning (ICML)](https://icml.cc/)
+[European Conference on Computer Vision (ECCV)](https://eccv2022.ecva.net/)
+
 ## Journals indexing search
 1. [Web of Science](https://mjl.clarivate.com/home)
 
@@ -83,39 +123,6 @@ permalink: /links/
 3. [8 cutting edge techniques in VR 2016](https://mp.weixin.qq.com/s/hI5xEmJz1MLINogc0MH7Ow)
 3. [Machinations: Design any gameplay system, using a Turing-complete language in an interactive diagram](https://machinations.io/)
 2. [Tips on introduction](https://mp.weixin.qq.com/s/PyRQhRyYy5UAl4wXnQ9NQg)
-
-## Computer Graphics Journals
-1. [ACM Transactions on Graphics (TOG)](http://www.acm.org/tog/)
-1. [IEEE Transactions on Visualization and Computer Graphics (TVCG)](http://www.computer.org/tvcg/)
-1. [Virtual Reality](https://www.springer.com/journal/10055)
-1. [Computer-Aided Design](https://www.sciencedirect.com/journal/computer-aided-design)
-1. [Computers & Graphics](http://www.elsevier.com/locate/cag)
-1. [Computational Visual Media](https://www.springer.com/journal/41095)
-1. [Computer Graphics Forum (CGF)](http://www.blackwellpublishing.com/journal.asp?ref=0167-7055&site=1)
-1. [The Visual Computer](https://www.springer.com/journal/371)
-1. [Computer Aided Geometric Design](http://ees.elsevier.com/cagd/)
-1. [IEEE Computer Graphics and Applications (CG&A)](http://www.computer.org/cga/)
-4. [Information Visualization](https://journals.sagepub.com/home/ivi)
-1. [Graphical Models (formerly Graphical Models and Image Processing)](http://www.elsevier.com/locate/gmod)
-1. [Journal of Computer Animation and Virtual Worlds (was Journal of Visualization and Computer Animation prior to 2004)](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-CAV.html)
-4. [Visual Informatics](https://www.sciencedirect.com/journal/visual-informatics)
-1. [Journal of graphics tools](http://jgt.akpeters.com/)
-1. [ACM Computers in Entertainment](https://cie.acm.org/)
-1. [Foundations and Trends in Computer Graphics and Vision](http://www.nowpublishers.com/cgv)
-1. [International Journal Machine Graphics & Vision (MGV)](http://mgv.wzim.sggw.pl/)
-1. [International Journal of Image and Graphics (IJIG)](http://www.worldscinet.com/ijig/)
-1. [International Journal of Computer Games Technology](http://www.hindawi.com/journals/ijcgt/)
-1. [Multimedia Technology](http://www.seipub.org/mt/)
-1. [Entertainment Computing](http://www.elsevier.com/wps/find/journaldescription.cws_home/717010/description#description)
-1. [International Journal of Multimedia](http://sciforschenonline.org/journals/multimedia/)
-1. [GSTF Journal on Computer Games and Multimedia](http://www.globalstf.org/publications/jcgm/index.php)
-1. [World Journal of Computer Application and Technology](http://www.hrpub.org/journals/jour_info.php?id=37)
-1. [Computer Science and Information Technology](http://www.hrpub.org/journals/jour_info.php?id=35)
-1. [CG Educational Materials Source (CGEMS)](http://cgems.inesc-id.pt/)
-1. [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://www.computer.org/pami/)
-1. [International Journal on Computer Vision](http://www.kluweronline.com/issn/0920-5691/current)
-1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
-1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
 
 ## Researches
 1. [Conferences and Meetings on Multimedia, Computer Graphics and Visualization](http://www.conference-service.com/conferences/multimedia.html)
@@ -232,12 +239,6 @@ permalink: /links/
 1. [科学基金网络信息系统(ISIS)，科技管理信息系统](https://isisn.nsfc.gov.cn/egrantweb/)
 2. [国家留学基金管理委员会](http://www.csc.edu.cn/)
 1. [教育部人文社会科学研究管理平台](https://xm.sinoss.net)
-
-## Shopping
-1. [京东](http://www.jd.com/)
-
-## Others
-1. [北京教育考试服务在线](http://www.bjeeic.org/)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
