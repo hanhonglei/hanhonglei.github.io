@@ -78,7 +78,7 @@ permalink: /links/
 5. [European Conference on Computer Vision (ECCV)](https://eccv2022.ecva.net/)
 6. [International Joint Conferences on Artificial Intelligence (IJCAI)](https://www.ijcai.org/)
 7. [AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/conferences.php)
-8. [International Conference on Learning Representations (ICLR)](https://iclr.cc/)9. 
+8. [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
 
 ## Journals indexing search
 1. [Web of Science](https://mjl.clarivate.com/home)
