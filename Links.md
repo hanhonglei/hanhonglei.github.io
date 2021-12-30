@@ -70,7 +70,7 @@ permalink: /links/
 1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
 1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
 
-##Computer Vision Conferences
+## Computer Vision Conferences
 1. [International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home)
 2. [The Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/)
 3. [Computer Vision and Pattern Recognition (CVPR)](https://cvpr2021.thecvf.com/)
