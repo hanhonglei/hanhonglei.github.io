@@ -70,12 +70,15 @@ permalink: /links/
 1. [Journal of Graphics Tools](http://jgt.akpeters.com/)
 1. [IEEE Computer Graphics and Applications](http://www.computer.org/cga/)
 
-## Computer Vision Conferences
+## Computer Vision & AI Conferences
 1. [International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home)
 2. [The Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/)
 3. [Computer Vision and Pattern Recognition (CVPR)](https://cvpr2021.thecvf.com/)
 4. [International Conference on Machine Learning (ICML)](https://icml.cc/)
 5. [European Conference on Computer Vision (ECCV)](https://eccv2022.ecva.net/)
+6. [International Joint Conferences on Artificial Intelligence (IJCAI)](https://www.ijcai.org/)
+7. [AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/conferences.php)
+8. [International Conference on Learning Representations (ICLR)](https://iclr.cc/)9. 
 
 ## Journals indexing search
 1. [Web of Science](https://mjl.clarivate.com/home)
