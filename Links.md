@@ -21,8 +21,8 @@ permalink: /links/
 14. [International Journal of Game-Based Learning (IJGBL)](https://www.igi-global.com/journal/international-journal-game-based-learning/41019)(Emerging Sources Citation Index)
 15. [International Journal of Serious Games](https://journal.seriousgamessociety.org/index.php/IJSG)(Emerging Sources Citation Index)
 16. [International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)](https://www.igi-global.com/journal/international-journal-gaming-computer-mediated/1125)(Emerging Sources Citation Index)
-17. [Journal of Gaming & Virtual Worlds](https://www.intellectbooks.com/journal-of-gaming-virtual-worlds)(Emerging Sources Citation Index)
-18. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)(Emerging Sources Citation Index)
+17. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)(Emerging Sources Citation Index)
+18. [Journal of Gaming & Virtual Worlds](https://www.intellectbooks.com/journal-of-gaming-virtual-worlds)(Emerging Sources Citation Index)
 19. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
 
 ## Game & Computer Graphics Academic conferences
