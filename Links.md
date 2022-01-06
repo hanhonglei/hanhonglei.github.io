@@ -9,21 +9,22 @@ permalink: /links/
 2. [Human–Computer Interaction](https://www.tandfonline.com/journals/hhci20)二区
 3. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)(SCI-E & SSCI)二区
 4. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)(SCI-E)二区
-5. [Games and Culture](https://journals.sagepub.com/home/gac)(SSCI) 四区
-6. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E)四区
-7. [JMIR Serious Games](https://games.jmir.org/)(SCI-E)三区
-8. [Games for Health Journal](https://home.liebertpub.com/publications/games-for-health-journal/588/overview)(SSCI)二区
-9. [Sensors](https://www.mdpi.com/journal/sensors) (SCI-E)三区
-10. [Multimedia Tools and Applications](https://www.springer.com/journal/11042)四区
-11. [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/journal/tomm)四区
-12. [Simulation & Gaming](https://journals.sagepub.com/home/sag)(Emerging Sources Citation Index)
-13. [International Journal of Technology and Human Interaction (IJTHI)](https://www.igi-global.com/journal/international-journal-technology-human-interaction/1084)( Emerging Sources Citation Index)
-14. [International Journal of Game-Based Learning (IJGBL)](https://www.igi-global.com/journal/international-journal-game-based-learning/41019)(Emerging Sources Citation Index)
-15. [International Journal of Serious Games](https://journal.seriousgamessociety.org/index.php/IJSG)(Emerging Sources Citation Index)
-16. [International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)](https://www.igi-global.com/journal/international-journal-gaming-computer-mediated/1125)(Emerging Sources Citation Index)
-17. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)(Emerging Sources Citation Index)
-18. [Journal of Gaming & Virtual Worlds](https://www.intellectbooks.com/journal-of-gaming-virtual-worlds)(Emerging Sources Citation Index)
-19. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
+5. [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=5165369)二区
+6. [Games and Culture](https://journals.sagepub.com/home/gac)(SSCI) 四区
+7. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E)四区
+8. [JMIR Serious Games](https://games.jmir.org/)(SCI-E)三区
+9. [Games for Health Journal](https://home.liebertpub.com/publications/games-for-health-journal/588/overview)(SSCI)二区
+10. [Sensors](https://www.mdpi.com/journal/sensors) (SCI-E)三区
+11. [Multimedia Tools and Applications](https://www.springer.com/journal/11042)四区
+12. [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/journal/tomm)四区
+13. [Simulation & Gaming](https://journals.sagepub.com/home/sag)(Emerging Sources Citation Index)
+14. [International Journal of Technology and Human Interaction (IJTHI)](https://www.igi-global.com/journal/international-journal-technology-human-interaction/1084)( Emerging Sources Citation Index)
+15. [International Journal of Game-Based Learning (IJGBL)](https://www.igi-global.com/journal/international-journal-game-based-learning/41019)(Emerging Sources Citation Index)
+16. [International Journal of Serious Games](https://journal.seriousgamessociety.org/index.php/IJSG)(Emerging Sources Citation Index)
+17. [International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)](https://www.igi-global.com/journal/international-journal-gaming-computer-mediated/1125)(Emerging Sources Citation Index)
+18. [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)(Emerging Sources Citation Index)
+19. [Journal of Gaming & Virtual Worlds](https://www.intellectbooks.com/journal-of-gaming-virtual-worlds)(Emerging Sources Citation Index)
+20. [Multimodal Technologies and Interaction](https://www.mdpi.com/journal/mti)
 
 ## Game & Computer Graphics Academic conferences
 1. [IEEE CONFERENCE ON GAMES](https://ieee-cog.org/2021/) All accepted papers will be published in the conference proceedings and on IEEE Xplore. Principle authors to submit an extended version of their papers to the [IEEE Transactions on Games (ToG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673).
