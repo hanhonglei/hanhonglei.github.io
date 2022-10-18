@@ -8,7 +8,7 @@ permalink: /links/
 1. [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior)(SSCI)一区
 2. [Human–Computer Interaction](https://www.tandfonline.com/journals/hhci20)二区
 3. [International Journal of Human-Computer Studies](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)(SCI-E & SSCI)二区
-4. [User Modeling and User-Adapted Interaction](https://beta.springer.com/journal/11257)(SCI-E)二区
+4. [User Modeling and User-Adapted Interaction](https://www.springer.com/journal/11257)(SCI-E)二区
 5. [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=5165369)二区
 6. [Games and Culture](https://journals.sagepub.com/home/gac)(SSCI) 四区
 7. [Entertainment Computing](https://www.journals.elsevier.com/entertainment-computing)(SCI-E)四区
