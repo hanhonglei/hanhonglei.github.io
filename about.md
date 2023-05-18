@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![]({{site.url}}/Images/MeComic.jpg){:height="150px"}
 ![]({{site.url}}/Images/MeFromSherry.jpg){:height="150px"}
-![]({{site.url}}/Images/MeNew.jpg){:height="150px"}
+![]({{site.url}}/Images/Me_2023_small.jpg){:height="150px"}
 
 
 ## HAN, HONGLEI (韩红雷) 
