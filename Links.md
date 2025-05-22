@@ -86,6 +86,7 @@ permalink: /links/
 1. [Web of Science](https://mjl.clarivate.com/home)
 
 ## Resources
+1. [Ke-Sen Huang's Home Page](https://kesen.realtimerendering.com/)计算机图形学会议搜集整理
 1. [GAMES: Graphics And Mixed Environment Seminar](http://games-cn.org/) 计算机图形学与混合现实研讨会
 1. [Graphics Studies Compilation](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/) This is a collection of frame breakdowns gathered online, all written by volunteers and enthusiasts who decided to reverse-engineer some games and document their findings.
 1. [How an independent researcher wrote a SIGGRAPH paper](http://www.mattkeeter.com/projects/siggraph/)
