@@ -40,13 +40,17 @@ Digital Game Design, Visual Reality, Computer Graphics
 
 	Bachelor Management	
 
-## 韩红雷
+## [韩红雷](https://docs.qq.com/aio/DUnNFQWFJSEZFZ1p0)
 
 博士，教授，男，1980年1月生人，籍贯山西太原，中国传媒大学教学督导专家，获[中国传媒大学](http://www.cuc.edu.cn/)[“教学名师”称号](http://www.cuc.edu.cn/2020/1021/c2126a174233/page.htm)。Unity全球认证讲师（Unity Certified Instructor），[Unity全球教育咨询委员会成员](https://unity.com/education/advisory-board#honglei-han)。
+
+具体情况请访问[该网页地址。](https://docs.qq.com/aio/DUnNFQWFJSEZFZ1p0)
 
 2003年毕业于[北京物资学院](http://www.bwu.edu.cn/)，获管理学学士学位。2006年毕业于[中国传媒大学](http://www.cuc.edu.cn/)，获工学硕士学位，专业为计算机应用技术。2015年1月毕业于[中国科学院软件研究所](http://www.is.cas.cn)，获博士学位，专业为计算机应用技术（计算机图形学方向）。2016年1月至2017年7月获得[国家留学基金委](http://www.csc.edu.cn)的“艺术类特殊人才项目”资助，前往University of North Carolina at Charlotte(美国[北卡罗来纳大学夏洛特分校](http://www.uncc.edu))进行访问学者合作研究和教学。
 
 开设的慕课：[《游戏引擎原理及应用》](https://www.icourse163.org/course/CUC-1450317378)（获评国家级一流在线课程）、[《游戏开发程序设计基础》](https://www.icourse163.org/course/CUC-1450328379)。或访问[中国大学慕课教师主页](https://www.icourse163.org/u/ykt1504248232794?userId=1029382301&_trace_c_p_k2_=80150f663d084f7082d9c9945dda1cb4)。
+
+出版教材：[《三维游戏开发——Unity引擎项目实践》](https://www.phei.cn/module/goods/wssd_content.jsp?bookid=68103)、[《游戏引擎原理及应用》](https://baike.baidu.com/item/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8/12227981?fr=aladdin)、[《游戏开发程序设计基础》](https://baike.baidu.com/item/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/67294416?fr=aladdin)
 
 目前承担的本科生课程有：《游戏引擎原理及应用》、《游戏开发程序设计基础》等；研究生课程有：《论文写作工作坊》等。
 
